@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.3.2",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "2bf264582f2b3111438b562155f485de2f18ebe55b08aa9076c071fa58bb32f7",
-                "size":  274507571,
-                "date":  "2026-10-19",
-                "notes":  {
-                              "fr":  "Nouveaux thèmes (Dofus Touch, Astrub, Bonta, Brâkmar, Sufokia) et en-tête plus compacte.",
-                              "en":  "New themes (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) and a more compact header.",
-                              "es":  "Nuevos temas (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) y cabecera más compacta."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.0",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "iPhone / iPad screen image through AirPlay",
                                   "es":  "Imagen del iPhone / iPad por AirPlay"
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.0",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "a40607a730be190c0a6d302593a5067522da7ffd881518b57e1fec8d7569e461",
+                "size":  274643777,
+                "date":  "2026-10-19",
+                "notes":  {
+                              "fr":  "Image de l\u0027iPhone / iPad par AirPlay",
+                              "en":  "iPhone / iPad screen image through AirPlay",
+                              "es":  "Imagen del iPhone / iPad por AirPlay"
+                          }
+            }
 }
