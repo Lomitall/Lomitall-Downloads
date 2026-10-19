@@ -1,0 +1,22 @@
+{
+    "windows":  {
+                    "version":  "0.3.0",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "5c3f89cefb9212149b4f56c9c739f09c2481b252f0d30b58e14ab558fe4046eb",
+                    "size":  80252614,
+                    "date":  "2026-10-19",
+                    "notes":  {
+
+                              }
+                },
+    "mac":  {
+                "version":  "0.3.0",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "ad51d06c31cf6a3d3764b0b3b5520a2342b7b8bd82ec6c06426223b5601a8df9",
+                "size":  274330591,
+                "date":  "2026-10-19",
+                "notes":  {
+
+                          }
+            }
+}
