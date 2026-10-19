@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.0",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "a40607a730be190c0a6d302593a5067522da7ffd881518b57e1fec8d7569e461",
-                "size":  274643777,
-                "date":  "2026-10-19",
-                "notes":  {
-                              "fr":  "Image de l\u0027iPhone / iPad par AirPlay",
-                              "en":  "iPhone / iPad screen image through AirPlay",
-                              "es":  "Imagen del iPhone / iPad por AirPlay"
-                          }
-            },
     "windows":  {
                     "version":  "0.4.1",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Apple Mirroring: fixes the AirPlay connection (\"Unable to connect\") when the Windows firewall blocks Lomitall, with an \"Allow through firewall\" button.",
                                   "es":  "Mirroring Apple: corrige la conexión AirPlay («No se ha podido conectar») cuando el firewall de Windows bloquea Lomitall, con un botón «Permitir en el firewall»."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.1",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "9f935f901bd20f555766f0708732e77eb9bae104823439a53751b7cb04bae3c2",
+                "size":  274643721,
+                "date":  "2026-10-20",
+                "notes":  {
+                              "fr":  "Mirroring Apple : correction de la connexion AirPlay (« Impossible de se connecter ») quand le coupe-feu de macOS bloque Lomitall, avec un bouton « Autoriser dans le coupe-feu ».",
+                              "en":  "Apple Mirroring: fixes the AirPlay connection (\"Unable to connect\") when the macOS firewall blocks Lomitall, with an \"Allow through firewall\" button.",
+                              "es":  "Mirroring Apple: corrige la conexión AirPlay («No se ha podido conectar») cuando el firewall de macOS bloquea Lomitall, con un botón «Permitir en el firewall»."
+                          }
+            }
 }
