@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.3.2",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "de5a495293edaa0d60742b1dfcaa95391b5c74cddd08eb54072a24b77ef410ec",
-                    "size":  80425158,
-                    "date":  "2026-10-19",
-                    "notes":  {
-                                  "fr":  "Nouveaux thèmes (Dofus Touch, Astrub, Bonta, Brâkmar, Sufokia) et en-tête plus compacte.",
-                                  "en":  "New themes (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) and a more compact header.",
-                                  "es":  "Nuevos temas (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) y cabecera más compacta."
-                              }
-                },
     "mac":  {
                 "version":  "0.3.2",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "New themes (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) and a more compact header.",
                               "es":  "Nuevos temas (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) y cabecera más compacta."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.0",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "7a68c2fedce6572e2be0ef116c0855e89f4287dcc2d4eb8ecbb800b829a97757",
+                    "size":  80603334,
+                    "date":  "2026-10-19",
+                    "notes":  {
+                                  "fr":  "Image de l\u0027iPhone / iPad par AirPlay",
+                                  "en":  "iPhone / iPad screen image through AirPlay",
+                                  "es":  "Imagen del iPhone / iPad por AirPlay"
+                              }
+                }
 }
