@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.3.1",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "fbc58e2250583dd62ff1ee39f506b27c028b41533b1dd355edff0ce777af438a",
-                "size":  274325772,
-                "date":  "2026-10-19",
-                "notes":  {
-                              "fr":  "Nouveau : sous-onglet iPhone Mirroring (guide de la solution d\u0027Apple) et mises à jour proposées au lancement.",
-                              "en":  "New: iPhone Mirroring sub-tab (guide to Apple\u0027s solution) and updates offered at launch.",
-                              "es":  "Novedades: subpestaña iPhone Mirroring (guía de la solución de Apple) y actualizaciones propuestas al iniciar."
-                          }
-            },
     "windows":  {
                     "version":  "0.3.2",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "New themes (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) and a more compact header.",
                                   "es":  "Nuevos temas (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) y cabecera más compacta."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.3.2",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "2bf264582f2b3111438b562155f485de2f18ebe55b08aa9076c071fa58bb32f7",
+                "size":  274507571,
+                "date":  "2026-10-19",
+                "notes":  {
+                              "fr":  "Nouveaux thèmes (Dofus Touch, Astrub, Bonta, Brâkmar, Sufokia) et en-tête plus compacte.",
+                              "en":  "New themes (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) and a more compact header.",
+                              "es":  "Nuevos temas (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) y cabecera más compacta."
+                          }
+            }
 }
