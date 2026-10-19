@@ -1,14 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.3.0",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "5c3f89cefb9212149b4f56c9c739f09c2481b252f0d30b58e14ab558fe4046eb",
-                    "size":  80252614,
-                    "date":  "2026-10-19",
-                    "notes":  {
-
-                              }
-                },
     "mac":  {
                 "version":  "0.3.1",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -20,5 +10,17 @@
                               "en":  "New: iPhone Mirroring sub-tab (guide to Apple\u0027s solution) and updates offered at launch.",
                               "es":  "Novedades: subpestaña iPhone Mirroring (guía de la solución de Apple) y actualizaciones propuestas al iniciar."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.3.1",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "db52c2864b872977e8b534b777d2bc00de2f794dafbebd94d37d0da66c74b00e",
+                    "size":  80276166,
+                    "date":  "2026-10-19",
+                    "notes":  {
+                                  "fr":  "Nouveau : mises à jour automatiques au lancement.",
+                                  "en":  "New: automatic updates at launch.",
+                                  "es":  "Novedades: actualizaciones automáticas al iniciar."
+                              }
+                }
 }
