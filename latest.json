@@ -12,15 +12,15 @@
                           }
             },
     "windows":  {
-                    "version":  "0.3.1",
+                    "version":  "0.3.2",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "db52c2864b872977e8b534b777d2bc00de2f794dafbebd94d37d0da66c74b00e",
-                    "size":  80276166,
+                    "sha256":  "de5a495293edaa0d60742b1dfcaa95391b5c74cddd08eb54072a24b77ef410ec",
+                    "size":  80425158,
                     "date":  "2026-10-19",
                     "notes":  {
-                                  "fr":  "Nouveau : mises à jour automatiques au lancement.",
-                                  "en":  "New: automatic updates at launch.",
-                                  "es":  "Novedades: actualizaciones automáticas al iniciar."
+                                  "fr":  "Nouveaux thèmes (Dofus Touch, Astrub, Bonta, Brâkmar, Sufokia) et en-tête plus compacte.",
+                                  "en":  "New themes (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) and a more compact header.",
+                                  "es":  "Nuevos temas (Dofus Touch, Astrub, Bonta, Brakmar, Sufokia) y cabecera más compacta."
                               }
                 }
 }
