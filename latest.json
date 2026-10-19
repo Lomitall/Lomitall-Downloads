@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.0",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "7a68c2fedce6572e2be0ef116c0855e89f4287dcc2d4eb8ecbb800b829a97757",
-                    "size":  80603334,
-                    "date":  "2026-10-19",
-                    "notes":  {
-                                  "fr":  "Image de l\u0027iPhone / iPad par AirPlay",
-                                  "en":  "iPhone / iPad screen image through AirPlay",
-                                  "es":  "Imagen del iPhone / iPad por AirPlay"
-                              }
-                },
     "mac":  {
                 "version":  "0.4.0",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "iPhone / iPad screen image through AirPlay",
                               "es":  "Imagen del iPhone / iPad por AirPlay"
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.1",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "66a2503ade919baa70cf2a2dfc787f3e2277272de3d95cc2a3f8f15a8d3090e5",
+                    "size":  80617158,
+                    "date":  "2026-10-20",
+                    "notes":  {
+                                  "fr":  "Mirroring Apple : correction de la connexion AirPlay (« Impossible de se connecter ») quand le pare-feu Windows bloque Lomitall, avec un bouton « Autoriser dans le pare-feu ».",
+                                  "en":  "Apple Mirroring: fixes the AirPlay connection (\"Unable to connect\") when the Windows firewall blocks Lomitall, with an \"Allow through firewall\" button.",
+                                  "es":  "Mirroring Apple: corrige la conexión AirPlay («No se ha podido conectar») cuando el firewall de Windows bloquea Lomitall, con un botón «Permitir en el firewall»."
+                              }
+                }
 }
