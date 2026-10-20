@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.2",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "7c3480b06cb9d31cdd16fe79987c31e00ea2f8172cf96933d4548ea95f9f8804",
-                    "size":  80626886,
-                    "date":  "2026-10-20",
-                    "notes":  {
-                                  "fr":  "Mirroring Android : bouton pour créer un clone ou un dossier pro avec Dofus Touch. Accueil : chat Twitch à la demande, gestion des cookies, mentions légales et politique de confidentialité à jour.",
-                                  "en":  "Android Mirroring: button to create a clone or a work profile with Dofus Touch. Home: Twitch chat on demand, cookie settings, updated legal notice and privacy policy.",
-                                  "es":  "Mirroring Android: botón para crear un clon o un perfil de trabajo con Dofus Touch. Inicio: chat de Twitch a demanda, gestión de cookies, aviso legal y política de privacidad actualizados."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.2",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Android Mirroring: button to create a clone or a work profile with Dofus Touch. Home: Twitch chat on demand, cookie settings, updated legal notice and privacy policy.",
                               "es":  "Mirroring Android: botón para crear un clon o un perfil de trabajo con Dofus Touch. Inicio: chat de Twitch a demanda, gestión de cookies, aviso legal y política de privacidad actualizados."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.3",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "55edd5c4b31ac885ea6546a5343b96262e2228f3f3b44d6e62fe59bc8e04738b",
+                    "size":  80692934,
+                    "date":  "2026-10-20",
+                    "notes":  {
+                                  "fr":  "Outils : nouvelle page Création de skin avec l\u0027Atelier de Skin de DTStuff et le Skinator de DofusBook.",
+                                  "en":  "Tools: new Skin Creator page with DTStuff\u0027s Skin Workshop and DofusBook\u0027s Skinator.",
+                                  "es":  "Herramientas: nueva página de Creación de skins con el Taller de Skins de DTStuff y el Skinator de DofusBook."
+                              }
+                }
 }
