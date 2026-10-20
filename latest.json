@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.1",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "66a2503ade919baa70cf2a2dfc787f3e2277272de3d95cc2a3f8f15a8d3090e5",
-                    "size":  80617158,
-                    "date":  "2026-10-20",
-                    "notes":  {
-                                  "fr":  "Mirroring Apple : correction de la connexion AirPlay (« Impossible de se connecter ») quand le pare-feu Windows bloque Lomitall, avec un bouton « Autoriser dans le pare-feu ».",
-                                  "en":  "Apple Mirroring: fixes the AirPlay connection (\"Unable to connect\") when the Windows firewall blocks Lomitall, with an \"Allow through firewall\" button.",
-                                  "es":  "Mirroring Apple: corrige la conexión AirPlay («No se ha podido conectar») cuando el firewall de Windows bloquea Lomitall, con un botón «Permitir en el firewall»."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.1",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Apple Mirroring: fixes the AirPlay connection (\"Unable to connect\") when the macOS firewall blocks Lomitall, with an \"Allow through firewall\" button.",
                               "es":  "Mirroring Apple: corrige la conexión AirPlay («No se ha podido conectar») cuando el firewall de macOS bloquea Lomitall, con un botón «Permitir en el firewall»."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.2",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "7c3480b06cb9d31cdd16fe79987c31e00ea2f8172cf96933d4548ea95f9f8804",
+                    "size":  80626886,
+                    "date":  "2026-10-20",
+                    "notes":  {
+                                  "fr":  "Mirroring Android : bouton pour créer un clone ou un dossier pro avec Dofus Touch. Accueil : chat Twitch à la demande, gestion des cookies, mentions légales et politique de confidentialité à jour.",
+                                  "en":  "Android Mirroring: button to create a clone or a work profile with Dofus Touch. Home: Twitch chat on demand, cookie settings, updated legal notice and privacy policy.",
+                                  "es":  "Mirroring Android: botón para crear un clon o un perfil de trabajo con Dofus Touch. Inicio: chat de Twitch a demanda, gestión de cookies, aviso legal y política de privacidad actualizados."
+                              }
+                }
 }
