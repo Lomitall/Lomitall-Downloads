@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.1",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "9f935f901bd20f555766f0708732e77eb9bae104823439a53751b7cb04bae3c2",
-                "size":  274643721,
-                "date":  "2026-10-20",
-                "notes":  {
-                              "fr":  "Mirroring Apple : correction de la connexion AirPlay (« Impossible de se connecter ») quand le coupe-feu de macOS bloque Lomitall, avec un bouton « Autoriser dans le coupe-feu ».",
-                              "en":  "Apple Mirroring: fixes the AirPlay connection (\"Unable to connect\") when the macOS firewall blocks Lomitall, with an \"Allow through firewall\" button.",
-                              "es":  "Mirroring Apple: corrige la conexión AirPlay («No se ha podido conectar») cuando el firewall de macOS bloquea Lomitall, con un botón «Permitir en el firewall»."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.2",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Android Mirroring: button to create a clone or a work profile with Dofus Touch. Home: Twitch chat on demand, cookie settings, updated legal notice and privacy policy.",
                                   "es":  "Mirroring Android: botón para crear un clon o un perfil de trabajo con Dofus Touch. Inicio: chat de Twitch a demanda, gestión de cookies, aviso legal y política de privacidad actualizados."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.2",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "9bf22eb34b71a48b80766ee323a1b5887b5c8b3b34016727460ff29c1c22864b",
+                "size":  274672445,
+                "date":  "2026-10-20",
+                "notes":  {
+                              "fr":  "Mirroring Android : bouton pour créer un clone ou un dossier pro avec Dofus Touch. Accueil : chat Twitch à la demande, gestion des cookies, mentions légales et politique de confidentialité à jour.",
+                              "en":  "Android Mirroring: button to create a clone or a work profile with Dofus Touch. Home: Twitch chat on demand, cookie settings, updated legal notice and privacy policy.",
+                              "es":  "Mirroring Android: botón para crear un clon o un perfil de trabajo con Dofus Touch. Inicio: chat de Twitch a demanda, gestión de cookies, aviso legal y política de privacidad actualizados."
+                          }
+            }
 }
