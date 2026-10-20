@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.3",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "1e3fd03e1a90c12c856b96f4fc6ec7ba33155178fe9674128e1bfa3a9eec9715",
-                "size":  274697143,
-                "date":  "2026-10-20",
-                "notes":  {
-                              "fr":  "Outils : nouvelle page Création de skin avec l\u0027Atelier de Skin de DTStuff et le Skinator de DofusBook.",
-                              "en":  "Tools: new Skin Creator page with DTStuff\u0027s Skin Workshop and DofusBook\u0027s Skinator.",
-                              "es":  "Herramientas: nueva página de Creación de skins con el Taller de Skins de DTStuff y el Skinator de DofusBook."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.4",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Tools: new Daily Routine (checkable tasks reset at midnight, today\u0027s Almanax offering), also in Mirroring.",
                                   "es":  "Herramientas: nueva Rutina diaria (tareas marcables que se reinician a medianoche, ofrenda del Almanax del día), también en el Mirroring."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.4",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "b181c29540b3b64f3f484709a49ae4e70284762eee9a0e16ccb234bdc2165870",
+                "size":  275426867,
+                "date":  "2026-10-20",
+                "notes":  {
+                              "fr":  "Outils : nouvelle Routine quotidienne (tâches à cocher, remises à zéro à minuit, offrande Almanax du jour), aussi dans le Mirroring.",
+                              "en":  "Tools: new Daily Routine (checkable tasks reset at midnight, today\u0027s Almanax offering), also in Mirroring.",
+                              "es":  "Herramientas: nueva Rutina diaria (tareas marcables que se reinician a medianoche, ofrenda del Almanax del día), también en el Mirroring."
+                          }
+            }
 }
