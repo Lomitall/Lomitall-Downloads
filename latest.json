@@ -12,15 +12,15 @@
                               }
                 },
     "mac":  {
-                "version":  "0.4.7",
+                "version":  "0.4.8",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "85e96cbeaef1a63a23ae3a767c71411c2b2d4675ae2331a7c0c31bcaac9c588b",
-                "size":  274735626,
-                "date":  "2026-10-21",
+                "sha256":  "430c67ea0b4b72ae3521dc594d78efcf6b5709f87357774edcb7623854a35e4d",
+                "size":  274723929,
+                "date":  "2026-10-22",
                 "notes":  {
-                              "fr":  "Bluetooth : nouvelle connexion clavier/souris. Cliquez sur \"Connecter un iPhone / iPad\" avec Reglages \u003e Bluetooth ouvert sur l\u0027appareil, puis touchez \"Jumeler\".",
-                              "en":  "Bluetooth: new keyboard/mouse connection. Click \"Connect an iPhone / iPad\" with Settings \u003e Bluetooth open on the device, then tap \"Pair\".",
-                              "es":  "Bluetooth: nueva conexion teclado/raton. Haz clic en \"Conectar un iPhone / iPad\" con Ajustes \u003e Bluetooth abierto en el dispositivo y toca \"Enlazar\"."
+                              "fr":  "Bluetooth : la souris et le clavier pilotent enfin l\u0027iPad (envoi corrige).",
+                              "en":  "Bluetooth: mouse and keyboard now control the iPad (sending fixed).",
+                              "es":  "Bluetooth: el raton y el teclado ya controlan el iPad (envio corregido)."
                           }
             }
 }
