@@ -12,15 +12,15 @@
                               }
                 },
     "mac":  {
-                "version":  "0.4.5",
+                "version":  "0.4.6",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "acad3d86daa93653a36a068d875093e8a286ad342a55eaae52fedaa06c9ddf44",
-                "size":  274711500,
+                "sha256":  "d93289dc6bb526486091073d8d642bad6d5aeda2338d3ad22a627c6ee481df8d",
+                "size":  274711026,
                 "date":  "2026-10-21",
                 "notes":  {
-                              "fr":  "Outils : Atelier FM aux probabilités de forgemaj.fr, Simulateur de Drop hors Bonus Pack, Bestiaire et Team Builder améliorés. AirPlay : plusieurs iPhone / iPad en recopie en même temps.",
-                              "en":  "Tools: FM Workshop with forgemaj.fr odds, Drop Simulator without Bonus Pack, improved Bestiary and Team Builder. AirPlay: several iPhones / iPads can mirror at the same time.",
-                              "es":  "Herramientas: Taller FM con las probabilidades de forgemaj.fr, Simulador de Drop sin Bonus Pack, Bestiario y Team Builder mejorados. AirPlay: varios iPhone / iPad pueden duplicar la pantalla a la vez."
+                              "fr":  "Bluetooth : l\u0027iPhone/iPad s\u0027appaire maintenant a \"Lomitall Clavier\" (corrige \"n\u0027est pas pris en charge\").",
+                              "en":  "Bluetooth: the iPhone/iPad now pairs with \"Lomitall Clavier\" (fixes \"not supported\").",
+                              "es":  "Bluetooth: el iPhone/iPad ahora se empareja con \"Lomitall Clavier\" (corrige \"no compatible\")."
                           }
             }
 }
