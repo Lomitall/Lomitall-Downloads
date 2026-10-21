@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.4",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "b181c29540b3b64f3f484709a49ae4e70284762eee9a0e16ccb234bdc2165870",
-                "size":  275426867,
-                "date":  "2026-10-20",
-                "notes":  {
-                              "fr":  "Outils : nouvelle Routine quotidienne (tâches à cocher, remises à zéro à minuit, offrande Almanax du jour), aussi dans le Mirroring.",
-                              "en":  "Tools: new Daily Routine (checkable tasks reset at midnight, today\u0027s Almanax offering), also in Mirroring.",
-                              "es":  "Herramientas: nueva Rutina diaria (tareas marcables que se reinician a medianoche, ofrenda del Almanax del día), también en el Mirroring."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.5",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Tools: FM Workshop with forgemaj.fr odds, Drop Simulator without Bonus Pack, improved Bestiary and Team Builder. AirPlay: several iPhones / iPads can mirror at the same time.",
                                   "es":  "Herramientas: Taller FM con las probabilidades de forgemaj.fr, Simulador de Drop sin Bonus Pack, Bestiario y Team Builder mejorados. AirPlay: varios iPhone / iPad pueden duplicar la pantalla a la vez."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.5",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "acad3d86daa93653a36a068d875093e8a286ad342a55eaae52fedaa06c9ddf44",
+                "size":  274711500,
+                "date":  "2026-10-21",
+                "notes":  {
+                              "fr":  "Outils : Atelier FM aux probabilités de forgemaj.fr, Simulateur de Drop hors Bonus Pack, Bestiaire et Team Builder améliorés. AirPlay : plusieurs iPhone / iPad en recopie en même temps.",
+                              "en":  "Tools: FM Workshop with forgemaj.fr odds, Drop Simulator without Bonus Pack, improved Bestiary and Team Builder. AirPlay: several iPhones / iPads can mirror at the same time.",
+                              "es":  "Herramientas: Taller FM con las probabilidades de forgemaj.fr, Simulador de Drop sin Bonus Pack, Bestiario y Team Builder mejorados. AirPlay: varios iPhone / iPad pueden duplicar la pantalla a la vez."
+                          }
+            }
 }
