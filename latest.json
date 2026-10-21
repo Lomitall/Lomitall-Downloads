@@ -12,15 +12,15 @@
                               }
                 },
     "mac":  {
-                "version":  "0.4.6",
+                "version":  "0.4.7",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "d93289dc6bb526486091073d8d642bad6d5aeda2338d3ad22a627c6ee481df8d",
-                "size":  274711026,
+                "sha256":  "85e96cbeaef1a63a23ae3a767c71411c2b2d4675ae2331a7c0c31bcaac9c588b",
+                "size":  274735626,
                 "date":  "2026-10-21",
                 "notes":  {
-                              "fr":  "Bluetooth : l\u0027iPhone/iPad s\u0027appaire maintenant a \"Lomitall Clavier\" (corrige \"n\u0027est pas pris en charge\").",
-                              "en":  "Bluetooth: the iPhone/iPad now pairs with \"Lomitall Clavier\" (fixes \"not supported\").",
-                              "es":  "Bluetooth: el iPhone/iPad ahora se empareja con \"Lomitall Clavier\" (corrige \"no compatible\")."
+                              "fr":  "Bluetooth : nouvelle connexion clavier/souris. Cliquez sur \"Connecter un iPhone / iPad\" avec Reglages \u003e Bluetooth ouvert sur l\u0027appareil, puis touchez \"Jumeler\".",
+                              "en":  "Bluetooth: new keyboard/mouse connection. Click \"Connect an iPhone / iPad\" with Settings \u003e Bluetooth open on the device, then tap \"Pair\".",
+                              "es":  "Bluetooth: nueva conexion teclado/raton. Haz clic en \"Conectar un iPhone / iPad\" con Ajustes \u003e Bluetooth abierto en el dispositivo y toca \"Enlazar\"."
                           }
             }
 }
