@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.5",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "28ca9a6ea12e59cad904732017d40c69486b51b3e4f5bcc1f1d245506a585276",
-                    "size":  81941190,
-                    "date":  "2026-10-21",
-                    "notes":  {
-                                  "fr":  "Outils : Atelier FM aux probabilités de forgemaj.fr, Simulateur de Drop hors Bonus Pack, Bestiaire et Team Builder améliorés. AirPlay : plusieurs iPhone / iPad en recopie en même temps.",
-                                  "en":  "Tools: FM Workshop with forgemaj.fr odds, Drop Simulator without Bonus Pack, improved Bestiary and Team Builder. AirPlay: several iPhones / iPads can mirror at the same time.",
-                                  "es":  "Herramientas: Taller FM con las probabilidades de forgemaj.fr, Simulador de Drop sin Bonus Pack, Bestiario y Team Builder mejorados. AirPlay: varios iPhone / iPad pueden duplicar la pantalla a la vez."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.8",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Bluetooth: mouse and keyboard now control the iPad (sending fixed).",
                               "es":  "Bluetooth: el raton y el teclado ya controlan el iPad (envio corregido)."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.6",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "a78dd1434b0ede6da2b2b263e721d57df7990c9ec8f55eff154013535cd769bb",
+                    "size":  81410246,
+                    "date":  "2026-10-22",
+                    "notes":  {
+                                  "fr":  "Aide : Lexique, Améliorations à venir et Changelog. Idées synchronisées avec Discord. Carte Frigost 3 dans les Spots de Farm. Simulateur de FM : runes en face des stats et jet toujours visible. Corrections Almanax et Bestiaire.",
+                                  "en":  "Help: Glossary, Upcoming improvements and Changelog. Ideas synced with Discord. Frigost 3 map in Farming Spots. Smithmagic Simulator: runes next to stats and roll always visible. Almanax and Bestiary fixes.",
+                                  "es":  "Ayuda: Glosario, Próximas mejoras y Registro de cambios. Ideas sincronizadas con Discord. Mapa de Frigost 3 en las zonas de farmeo. Simulador de forjamagia: runas frente a las estadísticas y tirada siempre visible. Correcciones de Almanax y Bestiario."
+                              }
+                }
 }
