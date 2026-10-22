@@ -12,15 +12,15 @@
                           }
             },
     "windows":  {
-                    "version":  "0.4.8",
+                    "version":  "0.4.9",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "21ea57bf689c084456da8c34530915e20dab773d3d51bc1cffd5a6b14f0e95cc",
-                    "size":  118414022,
+                    "sha256":  "c09ac244470cf70d98a41233a0dbf1b7354b7bcb238c2f28b2b862ae23e3b229",
+                    "size":  118554822,
                     "date":  "2026-10-23",
                     "notes":  {
-                                  "fr":  "Recopie d\u0027écran iPhone / iPad : nouveaux libellés sans logo Apple, mentions légales et code source du récepteur compatible AirPlay ; Élevage de Dragodindes",
-                                  "en":  "iPhone / iPad screen mirroring: new labels without the Apple logo, legal notices and source code of the AirPlay-compatible receiver; Dragoturkey Breeding",
-                                  "es":  "Duplicación de pantalla iPhone / iPad: nuevos textos sin el logo de Apple, avisos legales y código fuente del receptor compatible con AirPlay; Crianza de Dragopavos"
+                                  "fr":  "Élevage : nouveaux décors d\u0027enclos avec barrières et relief, achat de plusieurs enclos, accessoires bien placés, barre d\u0027expérience et bandeaux d\u0027aide refermables. Simulateur de FM : sauvegarde des objets et export en PNG.",
+                                  "en":  "Breeding: new paddock scenery with fences and depth, buy several paddocks, properly placed accessories, XP bar and closable help banners. Smithmagic Simulator: save items and export as PNG.",
+                                  "es":  "Crianza: nuevos decorados de cercado con vallas y relieve, compra de varios cercados, accesorios bien colocados, barra de experiencia y avisos de ayuda que se pueden cerrar. Simulador de forjamagia: guardado de objetos y exportación en PNG."
                               }
                 }
 }
