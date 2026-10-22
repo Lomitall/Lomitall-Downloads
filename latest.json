@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.8",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "430c67ea0b4b72ae3521dc594d78efcf6b5709f87357774edcb7623854a35e4d",
-                "size":  274723929,
-                "date":  "2026-10-22",
-                "notes":  {
-                              "fr":  "Bluetooth : la souris et le clavier pilotent enfin l\u0027iPad (envoi corrige).",
-                              "en":  "Bluetooth: mouse and keyboard now control the iPad (sending fixed).",
-                              "es":  "Bluetooth: el raton y el teclado ya controlan el iPad (envio corregido)."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.6",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Help: Glossary, Upcoming improvements and Changelog. Ideas synced with Discord. Frigost 3 map in Farming Spots. Smithmagic Simulator: runes next to stats and roll always visible. Almanax and Bestiary fixes.",
                                   "es":  "Ayuda: Glosario, Próximas mejoras y Registro de cambios. Ideas sincronizadas con Discord. Mapa de Frigost 3 en las zonas de farmeo. Simulador de forjamagia: runas frente a las estadísticas y tirada siempre visible. Correcciones de Almanax y Bestiario."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.9",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "452fd612c76512b0aa829aa1e66a09e548d80e19b2b8f26ac465ecae6bec976a",
+                "size":  274894114,
+                "date":  "2026-10-22",
+                "notes":  {
+                              "fr":  "Aide : Lexique, Améliorations à venir et Changelog. Idées synchronisées avec Discord. Carte Frigost 3 dans les Spots de Farm. Simulateur de FM : runes en face des stats et jet toujours visible. Corrections Almanax et Bestiaire.",
+                              "en":  "Help: Glossary, Upcoming improvements and Changelog. Ideas synced with Discord. Frigost 3 map in Farming Spots. Smithmagic Simulator: runes next to stats and roll always visible. Almanax and Bestiary fixes.",
+                              "es":  "Ayuda: Glosario, Próximas mejoras y Registro de cambios. Ideas sincronizadas con Discord. Mapa de Frigost 3 en las zonas de farmeo. Simulador de forjamagia: runas frente a las estadísticas y tirada siempre visible. Correcciones de Almanax y Bestiario."
+                          }
+            }
 }
