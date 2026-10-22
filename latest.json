@@ -12,15 +12,15 @@
                           }
             },
     "windows":  {
-                    "version":  "0.4.7",
+                    "version":  "0.4.8",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "c7ee48f9fee1dcf5386441239fd0f8c668fc236804fb44300c53c42caae973f1",
-                    "size":  81412294,
-                    "date":  "2026-10-22",
+                    "sha256":  "21ea57bf689c084456da8c34530915e20dab773d3d51bc1cffd5a6b14f0e95cc",
+                    "size":  118414022,
+                    "date":  "2026-10-23",
                     "notes":  {
-                                  "fr":  "Mirroring Android : l\u0027iPhone / iPad ne demande plus sans cesse à se connecter au PC. Le Bluetooth et AirPlay ne démarrent que sur l\u0027onglet Mirroring Apple.",
-                                  "en":  "Android mirroring: the iPhone / iPad no longer keeps asking to connect to the PC. Bluetooth and AirPlay only start on the Apple Mirroring tab.",
-                                  "es":  "Mirroring Android: el iPhone / iPad ya no pide conectarse al PC sin parar. El Bluetooth y AirPlay solo se inician en la pestaña Mirroring Apple."
+                                  "fr":  "Recopie d\u0027écran iPhone / iPad : nouveaux libellés sans logo Apple, mentions légales et code source du récepteur compatible AirPlay ; Élevage de Dragodindes",
+                                  "en":  "iPhone / iPad screen mirroring: new labels without the Apple logo, legal notices and source code of the AirPlay-compatible receiver; Dragoturkey Breeding",
+                                  "es":  "Duplicación de pantalla iPhone / iPad: nuevos textos sin el logo de Apple, avisos legales y código fuente del receptor compatible con AirPlay; Crianza de Dragopavos"
                               }
                 }
 }
