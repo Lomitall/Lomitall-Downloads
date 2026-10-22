@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.6",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "a78dd1434b0ede6da2b2b263e721d57df7990c9ec8f55eff154013535cd769bb",
-                    "size":  81410246,
-                    "date":  "2026-10-22",
-                    "notes":  {
-                                  "fr":  "Aide : Lexique, Améliorations à venir et Changelog. Idées synchronisées avec Discord. Carte Frigost 3 dans les Spots de Farm. Simulateur de FM : runes en face des stats et jet toujours visible. Corrections Almanax et Bestiaire.",
-                                  "en":  "Help: Glossary, Upcoming improvements and Changelog. Ideas synced with Discord. Frigost 3 map in Farming Spots. Smithmagic Simulator: runes next to stats and roll always visible. Almanax and Bestiary fixes.",
-                                  "es":  "Ayuda: Glosario, Próximas mejoras y Registro de cambios. Ideas sincronizadas con Discord. Mapa de Frigost 3 en las zonas de farmeo. Simulador de forjamagia: runas frente a las estadísticas y tirada siempre visible. Correcciones de Almanax y Bestiario."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.9",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Help: Glossary, Upcoming improvements and Changelog. Ideas synced with Discord. Frigost 3 map in Farming Spots. Smithmagic Simulator: runes next to stats and roll always visible. Almanax and Bestiary fixes.",
                               "es":  "Ayuda: Glosario, Próximas mejoras y Registro de cambios. Ideas sincronizadas con Discord. Mapa de Frigost 3 en las zonas de farmeo. Simulador de forjamagia: runas frente a las estadísticas y tirada siempre visible. Correcciones de Almanax y Bestiario."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.7",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "c7ee48f9fee1dcf5386441239fd0f8c668fc236804fb44300c53c42caae973f1",
+                    "size":  81412294,
+                    "date":  "2026-10-22",
+                    "notes":  {
+                                  "fr":  "Mirroring Android : l\u0027iPhone / iPad ne demande plus sans cesse à se connecter au PC. Le Bluetooth et AirPlay ne démarrent que sur l\u0027onglet Mirroring Apple.",
+                                  "en":  "Android mirroring: the iPhone / iPad no longer keeps asking to connect to the PC. Bluetooth and AirPlay only start on the Apple Mirroring tab.",
+                                  "es":  "Mirroring Android: el iPhone / iPad ya no pide conectarse al PC sin parar. El Bluetooth y AirPlay solo se inician en la pestaña Mirroring Apple."
+                              }
+                }
 }
