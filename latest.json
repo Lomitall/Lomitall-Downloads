@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.9",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "452fd612c76512b0aa829aa1e66a09e548d80e19b2b8f26ac465ecae6bec976a",
-                "size":  274894114,
-                "date":  "2026-10-22",
-                "notes":  {
-                              "fr":  "Aide : Lexique, Améliorations à venir et Changelog. Idées synchronisées avec Discord. Carte Frigost 3 dans les Spots de Farm. Simulateur de FM : runes en face des stats et jet toujours visible. Corrections Almanax et Bestiaire.",
-                              "en":  "Help: Glossary, Upcoming improvements and Changelog. Ideas synced with Discord. Frigost 3 map in Farming Spots. Smithmagic Simulator: runes next to stats and roll always visible. Almanax and Bestiary fixes.",
-                              "es":  "Ayuda: Glosario, Próximas mejoras y Registro de cambios. Ideas sincronizadas con Discord. Mapa de Frigost 3 en las zonas de farmeo. Simulador de forjamagia: runas frente a las estadísticas y tirada siempre visible. Correcciones de Almanax y Bestiario."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.10",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Breeding: the paddock no longer shows on top of the game windows.",
                                   "es":  "Crianza: el cercado ya no aparece por encima de las ventanas del juego."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.11",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "70cc31ee703919640742c77624c8c600d381757dbd719850d3b50b4b4ba0a9ae",
+                "size":  276851325,
+                "date":  "2026-10-23",
+                "notes":  {
+                              "fr":  "Élevage : nouveaux décors d\u0027enclos avec barrières et relief, achat de plusieurs enclos, accessoires bien placés, barre d\u0027expérience et bandeaux d\u0027aide refermables ; l\u0027enclos ne passe plus par-dessus les fenêtres du jeu. Simulateur de FM : sauvegarde des objets et export en PNG.",
+                              "en":  "Breeding: new paddock scenery with fences and depth, buy several paddocks, properly placed accessories, XP bar and closable help banners; the paddock no longer shows on top of the game windows. Smithmagic Simulator: save items and export as PNG.",
+                              "es":  "Crianza: nuevos decorados de cercado con vallas y relieve, compra de varios cercados, accesorios bien colocados, barra de experiencia y avisos de ayuda que se pueden cerrar; el cercado ya no aparece por encima de las ventanas del juego. Simulador de forjamagia: guardado de objetos y exportación en PNG."
+                          }
+            }
 }
