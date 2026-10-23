@@ -12,15 +12,15 @@
                           }
             },
     "windows":  {
-                    "version":  "0.4.9",
+                    "version":  "0.4.10",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "c09ac244470cf70d98a41233a0dbf1b7354b7bcb238c2f28b2b862ae23e3b229",
-                    "size":  118554822,
+                    "sha256":  "ca674f0fbd3a54df629fe19e16d2254217b4525774d6f44f279a4f81fa2e1f2f",
+                    "size":  118555336,
                     "date":  "2026-10-23",
                     "notes":  {
-                                  "fr":  "Élevage : nouveaux décors d\u0027enclos avec barrières et relief, achat de plusieurs enclos, accessoires bien placés, barre d\u0027expérience et bandeaux d\u0027aide refermables. Simulateur de FM : sauvegarde des objets et export en PNG.",
-                                  "en":  "Breeding: new paddock scenery with fences and depth, buy several paddocks, properly placed accessories, XP bar and closable help banners. Smithmagic Simulator: save items and export as PNG.",
-                                  "es":  "Crianza: nuevos decorados de cercado con vallas y relieve, compra de varios cercados, accesorios bien colocados, barra de experiencia y avisos de ayuda que se pueden cerrar. Simulador de forjamagia: guardado de objetos y exportación en PNG."
+                                  "fr":  "Élevage : l\u0027enclos ne passe plus par-dessus les fenêtres du jeu.",
+                                  "en":  "Breeding: the paddock no longer shows on top of the game windows.",
+                                  "es":  "Crianza: el cercado ya no aparece por encima de las ventanas del juego."
                               }
                 }
 }
