@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.11",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "70cc31ee703919640742c77624c8c600d381757dbd719850d3b50b4b4ba0a9ae",
-                "size":  276851325,
-                "date":  "2026-10-23",
-                "notes":  {
-                              "fr":  "Élevage : nouveaux décors d\u0027enclos avec barrières et relief, achat de plusieurs enclos, accessoires bien placés, barre d\u0027expérience et bandeaux d\u0027aide refermables ; l\u0027enclos ne passe plus par-dessus les fenêtres du jeu. Simulateur de FM : sauvegarde des objets et export en PNG.",
-                              "en":  "Breeding: new paddock scenery with fences and depth, buy several paddocks, properly placed accessories, XP bar and closable help banners; the paddock no longer shows on top of the game windows. Smithmagic Simulator: save items and export as PNG.",
-                              "es":  "Crianza: nuevos decorados de cercado con vallas y relieve, compra de varios cercados, accesorios bien colocados, barra de experiencia y avisos de ayuda que se pueden cerrar; el cercado ya no aparece por encima de las ventanas del juego. Simulador de forjamagia: guardado de objetos y exportación en PNG."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.11",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Home: new companion to pick and pet, which levels up with the time spent on the site (faster while watching a video) and a daily bonus. Guides, Classes and Dungeons: videos played on hover now have the YouTube controls (pause, volume, fullscreen).",
                                   "es":  "Inicio: nuevo compañero para elegir y acariciar, que sube de nivel con el tiempo pasado en el sitio (más rápido durante un vídeo) y un bonus diario. Guías, Clases y Mazmorras: los vídeos reproducidos al pasar el ratón tienen los controles de YouTube (pausa, volumen, pantalla completa)."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.12",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "1a60667ab7d2273def33ad5f871404ec92a40ea426f06dfa5ac57591c45d6246",
+                "size":  277131661,
+                "date":  "2026-10-24",
+                "notes":  {
+                              "fr":  "Accueil : nouveau compagnon à choisir et à caresser, qui gagne des niveaux avec le temps passé sur le site (plus vite pendant une vidéo) et un bonus quotidien. Guides, Classes et Donjons : les vidéos lues au survol ont les commandes YouTube (pause, volume, plein écran).",
+                              "en":  "Home: new companion to pick and pet, which levels up with the time spent on the site (faster while watching a video) and a daily bonus. Guides, Classes and Dungeons: videos played on hover now have the YouTube controls (pause, volume, fullscreen).",
+                              "es":  "Inicio: nuevo compañero para elegir y acariciar, que sube de nivel con el tiempo pasado en el sitio (más rápido durante un vídeo) y un bonus diario. Guías, Clases y Mazmorras: los vídeos reproducidos al pasar el ratón tienen los controles de YouTube (pausa, volumen, pantalla completa)."
+                          }
+            }
 }
