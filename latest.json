@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.10",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "ca674f0fbd3a54df629fe19e16d2254217b4525774d6f44f279a4f81fa2e1f2f",
-                    "size":  118555336,
-                    "date":  "2026-10-23",
-                    "notes":  {
-                                  "fr":  "Élevage : l\u0027enclos ne passe plus par-dessus les fenêtres du jeu.",
-                                  "en":  "Breeding: the paddock no longer shows on top of the game windows.",
-                                  "es":  "Crianza: el cercado ya no aparece por encima de las ventanas del juego."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.11",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Breeding: new paddock scenery with fences and depth, buy several paddocks, properly placed accessories, XP bar and closable help banners; the paddock no longer shows on top of the game windows. Smithmagic Simulator: save items and export as PNG.",
                               "es":  "Crianza: nuevos decorados de cercado con vallas y relieve, compra de varios cercados, accesorios bien colocados, barra de experiencia y avisos de ayuda que se pueden cerrar; el cercado ya no aparece por encima de las ventanas del juego. Simulador de forjamagia: guardado de objetos y exportación en PNG."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.11",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "83f8605207d694a02bdad5690b357b26afa19feb1c0881a81ce67368955c201f",
+                    "size":  118875848,
+                    "date":  "2026-10-24",
+                    "notes":  {
+                                  "fr":  "Accueil : nouveau compagnon à choisir et à caresser, qui gagne des niveaux avec le temps passé sur le site (plus vite pendant une vidéo) et un bonus quotidien. Guides, Classes et Donjons : les vidéos lues au survol ont les commandes YouTube (pause, volume, plein écran).",
+                                  "en":  "Home: new companion to pick and pet, which levels up with the time spent on the site (faster while watching a video) and a daily bonus. Guides, Classes and Dungeons: videos played on hover now have the YouTube controls (pause, volume, fullscreen).",
+                                  "es":  "Inicio: nuevo compañero para elegir y acariciar, que sube de nivel con el tiempo pasado en el sitio (más rápido durante un vídeo) y un bonus diario. Guías, Clases y Mazmorras: los vídeos reproducidos al pasar el ratón tienen los controles de YouTube (pausa, volumen, pantalla completa)."
+                              }
+                }
 }
