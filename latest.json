@@ -1,26 +1,26 @@
 {
-    "windows":  {
-                    "version":  "0.4.14",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "6bde640ab22c9b83c10f7f3fcd528e7c805c7156e6d35601ca7607a2c9ad596f",
-                    "size":  119026888,
-                    "date":  "2026-10-27",
-                    "notes":  {
-                                  "fr":  "Mini-jeux : Course de Bouftou en 3D (arÃ¨nes, 5 terrains, podium et vitesse en km/h, chutes plus naturelles). Combat de Piou modernisÃ© avec de nouveaux effets. Mob Guessr basÃ© sur tout le bestiaire (monstres, boss, archi-monstres) avec de nouveaux indices et l\u0027image du monstre. Scribl : zone de dessin amÃ©liorÃ©e (gomme, palette, annuler, pot de peinture), fond transparent par dÃ©faut. PÃªche aux KoinKoin : choix de la vitesse de pÃªche. Course de Larves : rÃ©initialisation corrigÃ©e, menu rÃ©ductible. LancÃ© de DÃ©dÃ© : la partie et le tirage au sort dÃ©marrent au clic sur Â« Commencer la partie Â». Sur tous les mini-jeux : bouton pour couper les sons et cadre Twitch masquable.",
-                                  "en":  "Mini-games: 3D Bouftou Race (arenas, 5 terrains, podium and speed in km/h, more natural falls). Piou Fight modernised with new effects. Mob Guessr now uses the whole bestiary (monsters, bosses, archmonsters) with new hints and the monster\u0027s picture. Scribl: improved drawing area (eraser, palette, undo, paint bucket), transparent background by default. KoinKoin Fishing: choose the fishing speed. Larva Race: reset fixed, collapsible menu. DÃ©dÃ©\u0027s Dice: the game and the coin toss start when you click Â« Start the game Â». On every mini-game: button to mute sounds and hideable Twitch box.",
-                                  "es":  "Minijuegos: Carrera de JalatÃ³s en 3D (arenas, 5 terrenos, podio y velocidad en km/h, caÃ­das mÃ¡s naturales). Combate de Piu modernizado con nuevos efectos. Mob Guessr basado en todo el bestiario (monstruos, jefes, archimonstruos) con nuevas pistas y la imagen del monstruo. Scribl: zona de dibujo mejorada (goma, paleta, deshacer, bote de pintura), fondo transparente por defecto. Pesca de KoinKoin: elecciÃ³n de la velocidad de pesca. Carrera de Larvas: reinicio corregido, menÃº plegable. Dados de DÃ©dÃ©: la partida y el sorteo empiezan al pulsar Â« Empezar la partida Â». En todos los minijuegos: botÃ³n para silenciar los sonidos y recuadro de Twitch ocultable."
-                              }
-                },
-    "mac":  {
-                "version":  "0.4.15",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "edf7fbd6e3d6d45a3b82146d859ff8f1af3dc883c9ae02ea814bc1d306321926",
-                "size":  277262837,
-                "date":  "2026-10-27",
-                "notes":  {
-                              "fr":  "Mini-jeux : Course de Bouftou en 3D (arÃ¨nes, 5 terrains, podium et vitesse en km/h, chutes plus naturelles). Combat de Piou modernisÃ© avec de nouveaux effets. Mob Guessr basÃ© sur tout le bestiaire (monstres, boss, archi-monstres) avec de nouveaux indices et l\u0027image du monstre. Scribl : zone de dessin amÃ©liorÃ©e (gomme, palette, annuler, pot de peinture), fond transparent par dÃ©faut. PÃªche aux KoinKoin : choix de la vitesse de pÃªche. Course de Larves : rÃ©initialisation corrigÃ©e, menu rÃ©ductible. LancÃ© de DÃ©dÃ© : la partie et le tirage au sort dÃ©marrent au clic sur Â« Commencer la partie Â». Sur tous les mini-jeux : bouton pour couper les sons et cadre Twitch masquable.",
-                              "en":  "Mini-games: 3D Bouftou Race (arenas, 5 terrains, podium and speed in km/h, more natural falls). Piou Fight modernised with new effects. Mob Guessr now uses the whole bestiary (monsters, bosses, archmonsters) with new hints and the monster\u0027s picture. Scribl: improved drawing area (eraser, palette, undo, paint bucket), transparent background by default. KoinKoin Fishing: choose the fishing speed. Larva Race: reset fixed, collapsible menu. DÃ©dÃ©\u0027s Dice: the game and the coin toss start when you click Â« Start the game Â». On every mini-game: button to mute sounds and hideable Twitch box.",
-                              "es":  "Minijuegos: Carrera de JalatÃ³s en 3D (arenas, 5 terrenos, podio y velocidad en km/h, caÃ­das mÃ¡s naturales). Combate de Piu modernizado con nuevos efectos. Mob Guessr basado en todo el bestiario (monstruos, jefes, archimonstruos) con nuevas pistas y la imagen del monstruo. Scribl: zona de dibujo mejorada (goma, paleta, deshacer, bote de pintura), fondo transparente por defecto. Pesca de KoinKoin: elecciÃ³n de la velocidad de pesca. Carrera de Larvas: reinicio corregido, menÃº plegable. Dados de DÃ©dÃ©: la partida y el sorteo empiezan al pulsar Â« Empezar la partida Â». En todos los minijuegos: botÃ³n para silenciar los sonidos y recuadro de Twitch ocultable."
-                          }
-            }
+    "windows": {
+        "version": "0.4.15",
+        "url": "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+        "sha256": "c2d46371af3409c5019eed481bce719a117c6e06c8c42e01e5d6f54e4480aa11",
+        "size": 123064008,
+        "date": "2026-10-27",
+        "notes": {
+            "fr": "Mini-jeux : nouveau mini-jeu Combat de Boss, deux boss s'affrontent : le tchat choisit son camp puis attaque, contre ou esquive. Élevage : la jauge de sérénité s'allume comme en jeu (bleu + rouge ou bleu + jaune, jamais bleu seul), l'amour monte avec une sérénité positive et l'endurance avec une sérénité négative.",
+            "en": "Mini-games: new Boss Fight mini-game, two bosses clash: chat picks a side, then attacks, counters or dodges. Breeding: the serenity gauge lights up like in the game (blue + red or blue + yellow, never blue alone), love rises with positive serenity and stamina with negative serenity.",
+            "es": "Minijuegos: nuevo minijuego Combate de jefes, dos jefes se enfrentan: el chat elige su bando y luego ataca, contraataca o esquiva. Crianza: la barra de serenidad se ilumina como en el juego (azul + rojo o azul + amarillo, nunca solo azul), el amor sube con serenidad positiva y la resistencia con serenidad negativa."
+        }
+    },
+    "mac": {
+        "version": "0.4.15",
+        "url": "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+        "sha256": "edf7fbd6e3d6d45a3b82146d859ff8f1af3dc883c9ae02ea814bc1d306321926",
+        "size": 277262837,
+        "date": "2026-10-27",
+        "notes": {
+            "fr": "Mini-jeux : Course de Bouftou en 3D (arÃ¨nes, 5 terrains, podium et vitesse en km/h, chutes plus naturelles). Combat de Piou modernisÃ© avec de nouveaux effets. Mob Guessr basÃ© sur tout le bestiaire (monstres, boss, archi-monstres) avec de nouveaux indices et l'image du monstre. Scribl : zone de dessin amÃ©liorÃ©e (gomme, palette, annuler, pot de peinture), fond transparent par dÃ©faut. PÃªche aux KoinKoin : choix de la vitesse de pÃªche. Course de Larves : rÃ©initialisation corrigÃ©e, menu rÃ©ductible. LancÃ© de DÃ©dÃ© : la partie et le tirage au sort dÃ©marrent au clic sur Â« Commencer la partie Â». Sur tous les mini-jeux : bouton pour couper les sons et cadre Twitch masquable.",
+            "en": "Mini-games: 3D Bouftou Race (arenas, 5 terrains, podium and speed in km/h, more natural falls). Piou Fight modernised with new effects. Mob Guessr now uses the whole bestiary (monsters, bosses, archmonsters) with new hints and the monster's picture. Scribl: improved drawing area (eraser, palette, undo, paint bucket), transparent background by default. KoinKoin Fishing: choose the fishing speed. Larva Race: reset fixed, collapsible menu. DÃ©dÃ©'s Dice: the game and the coin toss start when you click Â« Start the game Â». On every mini-game: button to mute sounds and hideable Twitch box.",
+            "es": "Minijuegos: Carrera de JalatÃ³s en 3D (arenas, 5 terrenos, podio y velocidad en km/h, caÃ­das mÃ¡s naturales). Combate de Piu modernizado con nuevos efectos. Mob Guessr basado en todo el bestiario (monstruos, jefes, archimonstruos) con nuevas pistas y la imagen del monstruo. Scribl: zona de dibujo mejorada (goma, paleta, deshacer, bote de pintura), fondo transparente por defecto. Pesca de KoinKoin: elecciÃ³n de la velocidad de pesca. Carrera de Larvas: reinicio corregido, menÃº plegable. Dados de DÃ©dÃ©: la partida y el sorteo empiezan al pulsar Â« Empezar la partida Â». En todos los minijuegos: botÃ³n para silenciar los sonidos y recuadro de Twitch ocultable."
+        }
+    }
 }
