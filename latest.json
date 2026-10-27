@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.13",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "af9fb8456268f73ae08e1f6430cf3573c1826947a1d62cdf1ad635615f814491",
-                "size":  277143285,
-                "date":  "2026-10-25",
-                "notes":  {
-                              "fr":  "Outils : nouvelles Draft Map Tournois et Draft Classes Tournois : deux joueurs rejoignent une salle par code et bannissent / choisissent Ã  tour de rÃ´le (maps du KolizÃ©um en mode classique ou tactique, avec les lignes de vue). Calculateur de MÃ©tiers : option Event Bonus XP MÃ©tier (bonus au choix ou saisi Ã  la main).",
-                              "en":  "Tools: new Tournament Map Draft and Tournament Class Draft: two players join a room with a code and ban / pick in turn (Kolossium maps in classic or tactical mode, with lines of sight). Profession Calculator: Profession XP Bonus Event option (preset or custom bonus).",
-                              "es":  "Herramientas: nuevos Draft de mapas de torneo y Draft de clases de torneo: dos jugadores se unen a una sala con un cÃ³digo y prohÃ­ben / eligen por turnos (mapas del Koliseo en modo clÃ¡sico o tÃ¡ctico, con las lÃ­neas de visiÃ³n). Calculadora de oficios: opciÃ³n Evento de bonificaciÃ³n de XP de oficio (bonificaciÃ³n a elegir o escrita a mano)."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.13",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Line of sight and Tournament Map Draft: checkbox to show the (red and blue) starting positions of the Kolossium maps. Web Mirroring: reorder windows by dragging and dropping their tabs; the order is remembered. Breeding (mini-game): serenity gauge with three zones (yellow: stamina, blue: maturity, red: love) and a cursor.",
                                   "es":  "Línea de visión y Draft de mapas de torneo: casilla para mostrar las posiciones de salida (rojas y azules) de los mapas del Koliseo. Mirroring Web: el orden de las ventanas se cambia arrastrando las pestañas y queda guardado. Crianza (minijuego): barra de serenidad en tres zonas (amarilla: resistencia, azul: madurez, roja: amor) con un cursor."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.14",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "b82c0e9a4772fffa65875e2f3322a91fbc2a927db75dc894b67795f5d6401494",
+                "size":  277192756,
+                "date":  "2026-10-27",
+                "notes":  {
+                              "fr":  "Ligne de vue et Draft Map Tournois : case à cocher pour afficher les positions de départ (rouges et bleues) des maps du Kolizéum. Mirroring Web : l\u0027ordre des fenêtres se change par glisser-déposer des onglets et reste mémorisé. Élevage (mini-jeu) : jauge de sérénité en trois zones (jaune : endurance, bleue : maturité, rouge : amour) avec un curseur.",
+                              "en":  "Line of sight and Tournament Map Draft: checkbox to show the (red and blue) starting positions of the Kolossium maps. Web Mirroring: reorder windows by dragging and dropping their tabs; the order is remembered. Breeding (mini-game): serenity gauge with three zones (yellow: stamina, blue: maturity, red: love) and a cursor.",
+                              "es":  "Línea de visión y Draft de mapas de torneo: casilla para mostrar las posiciones de salida (rojas y azules) de los mapas del Koliseo. Mirroring Web: el orden de las ventanas se cambia arrastrando las pestañas y queda guardado. Crianza (minijuego): barra de serenidad en tres zonas (amarilla: resistencia, azul: madurez, roja: amor) con un cursor."
+                          }
+            }
 }
