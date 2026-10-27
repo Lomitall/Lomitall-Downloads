@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.12",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "ca901a962e1b69544ea15ccdb6fdc5a94e957586c0d6d55f681ffb39d85e64d4",
-                    "size":  118948040,
-                    "date":  "2026-10-25",
-                    "notes":  {
-                                  "fr":  "Outils : nouvelles Draft Map Tournois et Draft Classes Tournois : deux joueurs rejoignent une salle par code et bannissent / choisissent à tour de rôle (maps du Kolizéum en mode classique ou tactique, avec les lignes de vue). Calculateur de Métiers : option Event Bonus XP Métier (bonus au choix ou saisi à la main).",
-                                  "en":  "Tools: new Tournament Map Draft and Tournament Class Draft: two players join a room with a code and ban / pick in turn (Kolossium maps in classic or tactical mode, with lines of sight). Profession Calculator: Profession XP Bonus Event option (preset or custom bonus).",
-                                  "es":  "Herramientas: nuevos Draft de mapas de torneo y Draft de clases de torneo: dos jugadores se unen a una sala con un código y prohíben / eligen por turnos (mapas del Koliseo en modo clásico o táctico, con las líneas de visión). Calculadora de oficios: opción Evento de bonificación de XP de oficio (bonificación a elegir o escrita a mano)."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.13",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Tools: new Tournament Map Draft and Tournament Class Draft: two players join a room with a code and ban / pick in turn (Kolossium maps in classic or tactical mode, with lines of sight). Profession Calculator: Profession XP Bonus Event option (preset or custom bonus).",
                               "es":  "Herramientas: nuevos Draft de mapas de torneo y Draft de clases de torneo: dos jugadores se unen a una sala con un cÃ³digo y prohÃ­ben / eligen por turnos (mapas del Koliseo en modo clÃ¡sico o tÃ¡ctico, con las lÃ­neas de visiÃ³n). Calculadora de oficios: opciÃ³n Evento de bonificaciÃ³n de XP de oficio (bonificaciÃ³n a elegir o escrita a mano)."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.13",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "24ff45477d02f2b0a2a92cae71f5865db40cc05eded08cc8eaca93fc9d3e279d",
+                    "size":  119010504,
+                    "date":  "2026-10-27",
+                    "notes":  {
+                                  "fr":  "Ligne de vue et Draft Map Tournois : case à cocher pour afficher les positions de départ (rouges et bleues) des maps du Kolizéum. Mirroring Web : l\u0027ordre des fenêtres se change par glisser-déposer des onglets et reste mémorisé. Élevage (mini-jeu) : jauge de sérénité en trois zones (jaune : endurance, bleue : maturité, rouge : amour) avec un curseur.",
+                                  "en":  "Line of sight and Tournament Map Draft: checkbox to show the (red and blue) starting positions of the Kolossium maps. Web Mirroring: reorder windows by dragging and dropping their tabs; the order is remembered. Breeding (mini-game): serenity gauge with three zones (yellow: stamina, blue: maturity, red: love) and a cursor.",
+                                  "es":  "Línea de visión y Draft de mapas de torneo: casilla para mostrar las posiciones de salida (rojas y azules) de los mapas del Koliseo. Mirroring Web: el orden de las ventanas se cambia arrastrando las pestañas y queda guardado. Crianza (minijuego): barra de serenidad en tres zonas (amarilla: resistencia, azul: madurez, roja: amor) con un cursor."
+                              }
+                }
 }
