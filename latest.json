@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.13",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "24ff45477d02f2b0a2a92cae71f5865db40cc05eded08cc8eaca93fc9d3e279d",
-                    "size":  119010504,
-                    "date":  "2026-10-27",
-                    "notes":  {
-                                  "fr":  "Ligne de vue et Draft Map Tournois : case à cocher pour afficher les positions de départ (rouges et bleues) des maps du Kolizéum. Mirroring Web : l\u0027ordre des fenêtres se change par glisser-déposer des onglets et reste mémorisé. Élevage (mini-jeu) : jauge de sérénité en trois zones (jaune : endurance, bleue : maturité, rouge : amour) avec un curseur.",
-                                  "en":  "Line of sight and Tournament Map Draft: checkbox to show the (red and blue) starting positions of the Kolossium maps. Web Mirroring: reorder windows by dragging and dropping their tabs; the order is remembered. Breeding (mini-game): serenity gauge with three zones (yellow: stamina, blue: maturity, red: love) and a cursor.",
-                                  "es":  "Línea de visión y Draft de mapas de torneo: casilla para mostrar las posiciones de salida (rojas y azules) de los mapas del Koliseo. Mirroring Web: el orden de las ventanas se cambia arrastrando las pestañas y queda guardado. Crianza (minijuego): barra de serenidad en tres zonas (amarilla: resistencia, azul: madurez, roja: amor) con un cursor."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.14",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Line of sight and Tournament Map Draft: checkbox to show the (red and blue) starting positions of the Kolossium maps. Web Mirroring: reorder windows by dragging and dropping their tabs; the order is remembered. Breeding (mini-game): serenity gauge with three zones (yellow: stamina, blue: maturity, red: love) and a cursor.",
                               "es":  "Línea de visión y Draft de mapas de torneo: casilla para mostrar las posiciones de salida (rojas y azules) de los mapas del Koliseo. Mirroring Web: el orden de las ventanas se cambia arrastrando las pestañas y queda guardado. Crianza (minijuego): barra de serenidad en tres zonas (amarilla: resistencia, azul: madurez, roja: amor) con un cursor."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.14",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "6bde640ab22c9b83c10f7f3fcd528e7c805c7156e6d35601ca7607a2c9ad596f",
+                    "size":  119026888,
+                    "date":  "2026-10-27",
+                    "notes":  {
+                                  "fr":  "Mini-jeux : Course de Bouftou en 3D (arÃ¨nes, 5 terrains, podium et vitesse en km/h, chutes plus naturelles). Combat de Piou modernisÃ© avec de nouveaux effets. Mob Guessr basÃ© sur tout le bestiaire (monstres, boss, archi-monstres) avec de nouveaux indices et l\u0027image du monstre. Scribl : zone de dessin amÃ©liorÃ©e (gomme, palette, annuler, pot de peinture), fond transparent par dÃ©faut. PÃªche aux KoinKoin : choix de la vitesse de pÃªche. Course de Larves : rÃ©initialisation corrigÃ©e, menu rÃ©ductible. LancÃ© de DÃ©dÃ© : la partie et le tirage au sort dÃ©marrent au clic sur Â« Commencer la partie Â». Sur tous les mini-jeux : bouton pour couper les sons et cadre Twitch masquable.",
+                                  "en":  "Mini-games: 3D Bouftou Race (arenas, 5 terrains, podium and speed in km/h, more natural falls). Piou Fight modernised with new effects. Mob Guessr now uses the whole bestiary (monsters, bosses, archmonsters) with new hints and the monster\u0027s picture. Scribl: improved drawing area (eraser, palette, undo, paint bucket), transparent background by default. KoinKoin Fishing: choose the fishing speed. Larva Race: reset fixed, collapsible menu. DÃ©dÃ©\u0027s Dice: the game and the coin toss start when you click Â« Start the game Â». On every mini-game: button to mute sounds and hideable Twitch box.",
+                                  "es":  "Minijuegos: Carrera de JalatÃ³s en 3D (arenas, 5 terrenos, podio y velocidad en km/h, caÃ­das mÃ¡s naturales). Combate de Piu modernizado con nuevos efectos. Mob Guessr basado en todo el bestiario (monstruos, jefes, archimonstruos) con nuevas pistas y la imagen del monstruo. Scribl: zona de dibujo mejorada (goma, paleta, deshacer, bote de pintura), fondo transparente por defecto. Pesca de KoinKoin: elecciÃ³n de la velocidad de pesca. Carrera de Larvas: reinicio corregido, menÃº plegable. Dados de DÃ©dÃ©: la partida y el sorteo empiezan al pulsar Â« Empezar la partida Â». En todos los minijuegos: botÃ³n para silenciar los sonidos y recuadro de Twitch ocultable."
+                              }
+                }
 }
