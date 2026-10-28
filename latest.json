@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.17",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "e64323ce2f2f8440a7a00e44d9a876393306f1fe3fe1815fd64b961fe51d75c3",
-                "size":  286681585,
-                "date":  "2026-10-28",
-                "notes":  {
-                              "fr":  "Mini-jeux : nouveaux jeux Quizz pour une cervelle de Iop, Quel est l\u0027Archi ?, Chacha Chess (échecs avec des monstres), Dofus Wordle, Bonta vs Brâkmar (tir à la corde avec jauge globale), Mots-croisés du Monde des Douze (grille hebdomadaire) et Course de Tofu, en solo, avec le tchat Twitch ou en ligne. Simulateur de FM : nouveau Duel de forgemagie. Les cartes des mini-jeux indiquent s\u0027il s\u0027agit d\u0027un jeu, d\u0027un jeu Twitch seulement ou d\u0027un utilitaire.",
-                              "en":  "Mini-games: new Quiz for an Iop brain, Which Archmonster?, Chacha Chess (chess with monsters), Dofus Wordle, Bonta vs Brakmar (tug of war with a global gauge), World of Twelve Crossword (weekly grid) and Tofu Race, solo, with Twitch chat or online. Smithmagic Simulator: new Smithmagic Duel. Mini-game cards now show whether each is a game, a Twitch-only game or a utility.",
-                              "es":  "Minijuegos: nuevos Quiz para un cerebro de Yopuka, ¿Cuál es el Archimonstruo?, Chacha Chess (ajedrez con monstruos), Dofus Wordle, Bonta vs Brakmar (tira y afloja con indicador global), Crucigrama del Mundo de los Doce (semanal) y Carrera de Tofus, en solitario, con el chat de Twitch o en línea. Simulador de FM: nuevo Duelo de forjamagia. Las tarjetas de los minijuegos indican si son un juego, un juego solo para Twitch o una utilidad."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.17",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Mini-games: new solo games Amakna Village (incremental game: professions, paddocks, dungeons, Almanax and daily quests) and Kama Clicker. New Solo game tag on mini-game cards. Rights notice added to every mini-game.",
                                   "es":  "Minijuegos: nuevos juegos en solitario Aldea de Amakna (juego incremental: oficios, cercados, mazmorras, Almanax y misiones diarias) y Kama Clicker. Nueva etiqueta Juego en solitario en las tarjetas de los minijuegos. Aviso de derechos añadido en todos los minijuegos."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.18",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "b38206f3441292aa8caaebca76fe78bd2d76ffa9321fd622741cbc24e35b30f3",
+                "size":  294943995,
+                "date":  "2026-10-28",
+                "notes":  {
+                              "fr":  "Mini-jeux : nouveaux jeux solo Village d\u0027Amakna (jeu incrémental : métiers, enclos, donjons, Almanax et quêtes du jour) et Kama Clicker. Nouvelle étiquette Jeu Solo sur les cartes des mini-jeux. Mention de droits ajoutée sur tous les mini-jeux.",
+                              "en":  "Mini-games: new solo games Amakna Village (incremental game: professions, paddocks, dungeons, Almanax and daily quests) and Kama Clicker. New Solo game tag on mini-game cards. Rights notice added to every mini-game.",
+                              "es":  "Minijuegos: nuevos juegos en solitario Aldea de Amakna (juego incremental: oficios, cercados, mazmorras, Almanax y misiones diarias) y Kama Clicker. Nueva etiqueta Juego en solitario en las tarjetas de los minijuegos. Aviso de derechos añadido en todos los minijuegos."
+                          }
+            }
 }
