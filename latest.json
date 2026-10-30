@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.18",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "42facc7c1ef293a966edcf12d4552d5ad5439bfd1dbcdf19f264b074d058059b",
-                    "size":  119265992,
-                    "date":  "2026-10-29",
-                    "notes":  {
-                                  "fr":  "Accueil : nouvelles illustrations de Nina Butterflies sur la bannière et les cartes « Explorer le site », lisibles sur tous les thèmes. Images et musiques des mini-jeux allégées. Village d\u0027Amakna : ajustements de l\u0027interface et du jeu.",
-                                  "en":  "Home: new illustrations by Nina Butterflies on the banner and the \"Explore the site\" cards, readable on every theme. Lighter mini-game images and music. Amakna Village: interface and gameplay tweaks.",
-                                  "es":  "Inicio: nuevas ilustraciones de Nina Butterflies en el banner y las tarjetas «Explorar la web», legibles en todos los temas. Imágenes y música de los minijuegos más ligeras. Aldea de Amakna: ajustes de la interfaz y del juego."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.19",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,15 @@
                               "en":  "Home: new illustrations by Nina Butterflies on the banner and the \"Explore the site\" cards, readable on every theme. Lighter mini-game images and music. Amakna Village: interface and gameplay tweaks.",
                               "es":  "Inicio: nuevas ilustraciones de Nina Butterflies en el banner y las tarjetas «Explorar la web», legibles en todos los temas. Imágenes y música de los minijuegos más ligeras. Aldea de Amakna: ajustes de la interfaz y del juego."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.19",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "4c1f5ec5e302935de3df0a4028fb4fa13013190aa5528b385598d99bad7076cf",
+                    "size":  270716616,
+                    "date":  "2026-10-30",
+                    "notes":  {
+
+                              }
+                }
 }
