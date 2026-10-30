@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.19",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "27e1b2cde7b07cfecd74aa507f716bd9faebddab852eef523502effc597ca49a",
-                "size":  276948759,
-                "date":  "2026-10-29",
-                "notes":  {
-                              "fr":  "Accueil : nouvelles illustrations de Nina Butterflies sur la bannière et les cartes « Explorer le site », lisibles sur tous les thèmes. Images et musiques des mini-jeux allégées. Village d\u0027Amakna : ajustements de l\u0027interface et du jeu.",
-                              "en":  "Home: new illustrations by Nina Butterflies on the banner and the \"Explore the site\" cards, readable on every theme. Lighter mini-game images and music. Amakna Village: interface and gameplay tweaks.",
-                              "es":  "Inicio: nuevas ilustraciones de Nina Butterflies en el banner y las tarjetas «Explorar la web», legibles en todos los temas. Imágenes y música de los minijuegos más ligeras. Aldea de Amakna: ajustes de la interfaz y del juego."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.19",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -20,5 +8,15 @@
                     "notes":  {
 
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.20",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "b28316bae28ddde343374e760001fab8268a1577d99a33532e22175fb47c6cd1",
+                "size":  429412415,
+                "date":  "2026-10-30",
+                "notes":  {
+
+                          }
+            }
 }
