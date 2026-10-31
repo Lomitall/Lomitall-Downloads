@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.22",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "f93c8980dc2d81cdf2e3b1e6eea8824a630219dd173039203f117a43acd4c0e4",
-                "size":  436361488,
-                "date":  "2026-10-31",
-                "notes":  {
-                              "fr":  "Nouveaux guides du Dédale et de l\u0027Ascension dans l\u0027onglet Donjons, et classes par état ou effet dans le Lexique et l\u0027onglet Classes.",
-                              "en":  "New Labyrinth and Ascension guides in the Dungeons tab, and classes by state or effect in the Glossary and Classes tab.",
-                              "es":  "Nuevas guías del Laberinto y de la Ascensión en la pestaña Mazmorras, y clases por estado o efecto en el Glosario y la pestaña Clases."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.22",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Smoother Android mirroring over USB (lower latency) and a new Record button to capture your game (up to 1080p 60 fps, with sound), even with the window minimized.",
                                   "es":  "Mirroring Android más fluido por USB (menos latencia) y nuevo botón Grabar para grabar tu partida (hasta 1080p 60 fps, con sonido), incluso con la ventana minimizada."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.23",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "ce9c6cdc2b76bb13795f2eb48b1314e4ce08068e4b56d3ec1bd218dac14a732e",
+                "size":  436379930,
+                "date":  "2026-10-31",
+                "notes":  {
+                              "fr":  "Nouveau bouton Enregistrer dans le mirroring Android pour filmer votre partie (jusqu\u0027à 1080p 60 ips, avec le son), même avec la fenêtre réduite.",
+                              "en":  "New Record button in Android mirroring to capture your game (up to 1080p 60 fps, with sound), even with the window minimized.",
+                              "es":  "Nuevo botón Grabar en el mirroring Android para grabar tu partida (hasta 1080p 60 fps, con sonido), incluso con la ventana minimizada."
+                          }
+            }
 }
