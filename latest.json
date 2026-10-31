@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.21",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "25da2b32a1cf721d1c2de6c22b5bdb06930182819448853caf65a10b4553a24c",
-                    "size":  277962952,
-                    "date":  "2026-10-31",
-                    "notes":  {
-                                  "fr":  "Nouveaux guides du Dédale et de l\u0027Ascension dans l\u0027onglet Donjons, et classes par état ou effet dans le Lexique et l\u0027onglet Classes.",
-                                  "en":  "New Labyrinth and Ascension guides in the Dungeons tab, and classes by state or effect in the Glossary and Classes tab.",
-                                  "es":  "Nuevas guías del Laberinto y de la Ascensión en la pestaña Mazmorras, y clases por estado o efecto en el Glosario y la pestaña Clases."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.22",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "New Labyrinth and Ascension guides in the Dungeons tab, and classes by state or effect in the Glossary and Classes tab.",
                               "es":  "Nuevas guías del Laberinto y de la Ascensión en la pestaña Mazmorras, y clases por estado o efecto en el Glosario y la pestaña Clases."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.22",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "51900ccd70a0d6ca08fbfac7c9a06173bf9134cc5109b0b50f8015745d778419",
+                    "size":  278008520,
+                    "date":  "2026-10-31",
+                    "notes":  {
+                                  "fr":  "Mirroring Android plus fluide en USB (moins de latence) et nouveau bouton Enregistrer pour filmer votre partie (jusqu\u0027à 1080p 60 ips, avec le son), même avec la fenêtre réduite.",
+                                  "en":  "Smoother Android mirroring over USB (lower latency) and a new Record button to capture your game (up to 1080p 60 fps, with sound), even with the window minimized.",
+                                  "es":  "Mirroring Android más fluido por USB (menos latencia) y nuevo botón Grabar para grabar tu partida (hasta 1080p 60 fps, con sonido), incluso con la ventana minimizada."
+                              }
+                }
 }
