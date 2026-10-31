@@ -1,14 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.21",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "1992f7342290840d1740639dac0effba9ddacc2e586c57faa0affdca540624c4",
-                "size":  429411884,
-                "date":  "2026-10-30",
-                "notes":  {
-
-                          }
-            },
     "windows":  {
                     "version":  "0.4.21",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -20,5 +10,17 @@
                                   "en":  "New Labyrinth and Ascension guides in the Dungeons tab, and classes by state or effect in the Glossary and Classes tab.",
                                   "es":  "Nuevas guías del Laberinto y de la Ascensión en la pestaña Mazmorras, y clases por estado o efecto en el Glosario y la pestaña Clases."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.22",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "f93c8980dc2d81cdf2e3b1e6eea8824a630219dd173039203f117a43acd4c0e4",
+                "size":  436361488,
+                "date":  "2026-10-31",
+                "notes":  {
+                              "fr":  "Nouveaux guides du Dédale et de l\u0027Ascension dans l\u0027onglet Donjons, et classes par état ou effet dans le Lexique et l\u0027onglet Classes.",
+                              "en":  "New Labyrinth and Ascension guides in the Dungeons tab, and classes by state or effect in the Glossary and Classes tab.",
+                              "es":  "Nuevas guías del Laberinto y de la Ascensión en la pestaña Mazmorras, y clases por estado o efecto en el Glosario y la pestaña Clases."
+                          }
+            }
 }
