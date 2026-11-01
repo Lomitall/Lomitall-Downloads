@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.24",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "e452a6cfefe90646a3bfd5ada38e223b11d726fb4e883b21ce7cd623264b36ac",
-                "size":  564509348,
-                "date":  "2026-11-01",
-                "notes":  {
-                              "fr":  "Nouveau mini-jeu Donjons des Douze : un action-RPG en 3D (10 classes, 17 donjons et leurs boss, 12 Dofus, niveau 1 à 200), seul, avec le tchat Twitch ou en coop en ligne jusqu\u0027à 4. Aussi : classement public des mini-jeux et bouton Mini Jeux \u0026 Widgets mis en avant.",
-                              "en":  "New mini-game Twelve\u0027s Dungeons: a 3D action-RPG (10 classes, 17 dungeons and their bosses, 12 Dofus, level 1 to 200), solo, with Twitch chat or online co-op for up to 4. Also: public mini-game leaderboard and a highlighted Mini-games \u0026 Widgets button.",
-                              "es":  "Nuevo minijuego Mazmorras de los Doce: un action-RPG en 3D (10 clases, 17 mazmorras y sus jefes, 12 Dofus, nivel 1 a 200), en solitario, con el chat de Twitch o en cooperativo en línea hasta 4. Además: clasificación pública de los minijuegos y botón Minijuegos y widgets destacado."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.24",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "New Mirroring › DTCloner tab: a free Android app to play several Dofus Touch accounts on a single phone (1-tap cloning, custom icons, automatic updates), with an illustrated installation guide.",
                                   "es":  "Nueva pestaña Mirroring › DTCloner: una aplicación Android gratuita para jugar varias cuentas de Dofus Touch en un solo teléfono (clonación en 1 toque, iconos personalizados, actualización automática), con una guía de instalación ilustrada."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.25",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "431b0ff791417643dcef599ba29e8260480a810da80622dc0352be5b3460c954",
+                "size":  564614280,
+                "date":  "2026-11-01",
+                "notes":  {
+                              "fr":  "Nouvel onglet Mirroring › DTCloner : une application Android gratuite pour jouer plusieurs comptes Dofus Touch sur un seul téléphone (clonage en 1 clic, icônes personnalisées, mise à jour automatique), avec un guide d\u0027installation illustré.",
+                              "en":  "New Mirroring › DTCloner tab: a free Android app to play several Dofus Touch accounts on a single phone (1-tap cloning, custom icons, automatic updates), with an illustrated installation guide.",
+                              "es":  "Nueva pestaña Mirroring › DTCloner: una aplicación Android gratuita para jugar varias cuentas de Dofus Touch en un solo teléfono (clonación en 1 toque, iconos personalizados, actualización automática), con una guía de instalación ilustrada."
+                          }
+            }
 }
