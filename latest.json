@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.28",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "76121e2b9620d750bac2ad7936db96e13f927b8b467043806e4bac7396ed80b2",
-                    "size":  405429448,
-                    "date":  "2026-11-02",
-                    "notes":  {
-                                  "fr":  "Forgemagie : poids des runes de Dofus Touch (Fo 1, Vi +5 = 1, Sa 3, PO 51, Invo 30…) et lignes max corrigées (505 Vitalité), Invocations parmi les exos, nouvel onglet Guide du Forgemage et nouveaux taux de passage. Donjons des Douze : le personnage ne reste plus coincé contre un mur après un bond ou une téléportation.",
-                                  "en":  "Smithmagic: Dofus Touch rune weights (Str 1, Vit +5 = 1, Wis 3, Range 51, Summon 30…) and corrected max lines (505 Vitality), Summons among the exotics, new Smithmagic Guide tab and new success rates. Donjons des Douze: your character no longer gets stuck against a wall after a leap or a teleport.",
-                                  "es":  "Forjamagia: pesos de runas de Dofus Touch (Fu 1, Vi +5 = 1, Sa 3, Alc 51, Invo 30…) y líneas máximas corregidas (505 de Vitalidad), Invocaciones entre los exóticos, nueva pestaña Guía de forjamagia y nuevas tasas de éxito. Donjons des Douze: el personaje ya no se queda atascado contra un muro tras un salto o un teletransporte."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.29",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Smithmagic: Dofus Touch rune weights (Str 1, Vit +5 = 1, Wis 3, Range 51, Summon 30…) and corrected max lines (505 Vitality), Summons among the exotics, new Smithmagic Guide tab and new success rates. Donjons des Douze: your character no longer gets stuck against a wall after a leap or a teleport.",
                               "es":  "Forjamagia: pesos de runas de Dofus Touch (Fu 1, Vi +5 = 1, Sa 3, Alc 51, Invo 30…) y líneas máximas corregidas (505 de Vitalidad), Invocaciones entre los exóticos, nueva pestaña Guía de forjamagia y nuevas tasas de éxito. Donjons des Douze: el personaje ya no se queda atascado contra un muro tras un salto o un teletransporte."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.29",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "98c085fdd8e36684bffad2da30425b5a4d1524b96aea0f8a5975b829de8a4a66",
+                    "size":  405431496,
+                    "date":  "2026-11-02",
+                    "notes":  {
+                                  "fr":  "Guides : les guides du site (Forgemage, Élevage, Dédale, Ascension, Donjons, Classes, Armes Légendaires) sont épinglés dans l\u0027onglet Guides. Simulateur de FM : une ligne ajoutée hors de l\u0027objet reste à sa place (plus de clic à côté). Guide du Forgemage : lignes max d\u0027après les jets des objets.",
+                                  "en":  "Guides: the site\u0027s guides (Smithmagus, Breeding, Labyrinth, Ascension, Dungeons, Classes, Legendary Weapons) are pinned in the Guides tab. FM Simulator: a line added outside the item stays in place (no more misclicks). Smithmagus Guide: max lines from the items\u0027 rolls.",
+                                  "es":  "Guías: las guías del sitio (Forjamago, Cría, Laberinto, Ascensión, Mazmorras, Clases, Armas legendarias) están fijadas en la pestaña Guías. Simulador de FM: una línea añadida fuera del objeto se queda en su sitio (sin clics fallidos). Guía del Forjamago: líneas máximas según las tiradas de los objetos."
+                              }
+                }
 }
