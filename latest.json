@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.24",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "ef1a86a60ae31ba2d3a56cf0388da6c2110e0509ef32a70e03c5262d2f836975",
-                    "size":  405278920,
-                    "date":  "2026-11-01",
-                    "notes":  {
-                                  "fr":  "Nouvel onglet Mirroring › DTCloner : une application Android gratuite pour jouer plusieurs comptes Dofus Touch sur un seul téléphone (clonage en 1 clic, icônes personnalisées, mise à jour automatique), avec un guide d\u0027installation illustré.",
-                                  "en":  "New Mirroring › DTCloner tab: a free Android app to play several Dofus Touch accounts on a single phone (1-tap cloning, custom icons, automatic updates), with an illustrated installation guide.",
-                                  "es":  "Nueva pestaña Mirroring › DTCloner: una aplicación Android gratuita para jugar varias cuentas de Dofus Touch en un solo teléfono (clonación en 1 toque, iconos personalizados, actualización automática), con una guía de instalación ilustrada."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.25",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "New Mirroring › DTCloner tab: a free Android app to play several Dofus Touch accounts on a single phone (1-tap cloning, custom icons, automatic updates), with an illustrated installation guide.",
                               "es":  "Nueva pestaña Mirroring › DTCloner: una aplicación Android gratuita para jugar varias cuentas de Dofus Touch en un solo teléfono (clonación en 1 toque, iconos personalizados, actualización automática), con una guía de instalación ilustrada."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.25",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "bd64f46a24afda541d567f77615d68acd6ee1f93bd1946eb8bc9b1106722832c",
+                    "size":  405405896,
+                    "date":  "2026-11-02",
+                    "notes":  {
+                                  "fr":  "Mini-jeux : on arrive directement dans le jeu (Solo / En ligne en haut, Partie rapide sans code), volume general. Donjons des Douze : multi ameliore (classe et donjon dans le salon, ecran de fin conserve, Dofus partage), Statistiques, corrections du son et du personnage. Routine : frequence par tache. Aide : Sauvegarde par pseudo + code PIN.",
+                                  "en":  "Mini-games: you land straight in the game (Solo / Online at the top, Quick match without a code), master volume. Dungeons of the Twelve: better multiplayer (class and dungeon in the lobby, end screen kept, shared Dofus), Statistics, sound and character fixes. Routine: frequency per task. Help: Backup with nickname + PIN.",
+                                  "es":  "Minijuegos: llegas directamente al juego (Solo / En linea arriba, Partida rapida sin codigo), volumen general. Mazmorras de los Doce: multijugador mejorado (clase y mazmorra en la sala, pantalla final conservada, Dofus compartido), Estadisticas, correcciones de sonido y personaje. Rutina: frecuencia por tarea. Ayuda: Copia de seguridad con apodo + PIN."
+                              }
+                }
 }
