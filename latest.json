@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.27",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "96eaf6a9bbc4a216c4946f766b613b860d5e26fa66ca1f7f1007cff68cd03d61",
-                "size":  564640002,
-                "date":  "2026-11-02",
-                "notes":  {
-                              "fr":  "Donjons des Douze : en partie, seuls les boutons Pause et Plein ecran restent en haut a droite ; en ligne, la pause de l\u0027hote met tout le groupe en pause, sauf si la majorite des autres joueurs vote pour continuer.",
-                              "en":  "Dungeons of the Twelve: in game, only the Pause and Full screen buttons stay at the top right; online, the host\u0027s pause pauses the whole group unless most of the other players vote to continue.",
-                              "es":  "Mazmorras de los Doce: en partida, solo quedan arriba a la derecha los botones Pausa y Pantalla completa; en linea, la pausa del anfitrion pausa a todo el grupo, salvo si la mayoria de los demas jugadores vota continuar."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.28",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Smithmagic: Dofus Touch rune weights (Str 1, Vit +5 = 1, Wis 3, Range 51, Summon 30…) and corrected max lines (505 Vitality), Summons among the exotics, new Smithmagic Guide tab and new success rates. Donjons des Douze: your character no longer gets stuck against a wall after a leap or a teleport.",
                                   "es":  "Forjamagia: pesos de runas de Dofus Touch (Fu 1, Vi +5 = 1, Sa 3, Alc 51, Invo 30…) y líneas máximas corregidas (505 de Vitalidad), Invocaciones entre los exóticos, nueva pestaña Guía de forjamagia y nuevas tasas de éxito. Donjons des Douze: el personaje ya no se queda atascado contra un muro tras un salto o un teletransporte."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.29",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "4c6e313cc5c38304072bb1ce484f54d015760319b8dfd02627a99c3e991be441",
+                "size":  564863380,
+                "date":  "2026-11-02",
+                "notes":  {
+                              "fr":  "Forgemagie : poids des runes de Dofus Touch (Fo 1, Vi +5 = 1, Sa 3, PO 51, Invo 30…) et lignes max corrigées (505 Vitalité), Invocations parmi les exos, nouvel onglet Guide du Forgemage et nouveaux taux de passage. Donjons des Douze : le personnage ne reste plus coincé contre un mur après un bond ou une téléportation.",
+                              "en":  "Smithmagic: Dofus Touch rune weights (Str 1, Vit +5 = 1, Wis 3, Range 51, Summon 30…) and corrected max lines (505 Vitality), Summons among the exotics, new Smithmagic Guide tab and new success rates. Donjons des Douze: your character no longer gets stuck against a wall after a leap or a teleport.",
+                              "es":  "Forjamagia: pesos de runas de Dofus Touch (Fu 1, Vi +5 = 1, Sa 3, Alc 51, Invo 30…) y líneas máximas corregidas (505 de Vitalidad), Invocaciones entre los exóticos, nueva pestaña Guía de forjamagia y nuevas tasas de éxito. Donjons des Douze: el personaje ya no se queda atascado contra un muro tras un salto o un teletransporte."
+                          }
+            }
 }
