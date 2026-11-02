@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.26",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "3d7d84d504b8a432917bd699f9bcb2a2eb71af08d8a9a99f507f16bef7b2558b",
-                    "size":  405407432,
-                    "date":  "2026-11-02",
-                    "notes":  {
-                                  "fr":  "Donjons des Douze : en partie, seuls les boutons Pause et Plein ecran restent en haut a droite ; en ligne, la pause de l\u0027hote met tout le groupe en pause, sauf si la majorite des autres joueurs vote pour continuer.",
-                                  "en":  "Dungeons of the Twelve: in game, only the Pause and Full screen buttons stay at the top right; online, the host\u0027s pause pauses the whole group unless most of the other players vote to continue.",
-                                  "es":  "Mazmorras de los Doce: en partida, solo quedan arriba a la derecha los botones Pausa y Pantalla completa; en linea, la pausa del anfitrion pausa a todo el grupo, salvo si la mayoria de los demas jugadores vota continuar."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.27",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Dungeons of the Twelve: in game, only the Pause and Full screen buttons stay at the top right; online, the host\u0027s pause pauses the whole group unless most of the other players vote to continue.",
                               "es":  "Mazmorras de los Doce: en partida, solo quedan arriba a la derecha los botones Pausa y Pantalla completa; en linea, la pausa del anfitrion pausa a todo el grupo, salvo si la mayoria de los demas jugadores vota continuar."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.27",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "21e6cef2ef2f5e146d6dc9c095c19269ef8cdc6048586d768a540b626185d787",
+                    "size":  405429448,
+                    "date":  "2026-11-02",
+                    "notes":  {
+                                  "fr":  "Simulateur de FM et Duel de forgemagie : nouveaux taux de passage (modèle DoFocus) et nouvel onglet Guide du Forgemage. Donjons des Douze : le personnage ne reste plus coincé contre un mur après un bond ou une téléportation.",
+                                  "en":  "FM Simulator and Smithmagic Duel: new success rates (DoFocus model) and a new Smithmagic Guide tab. Donjons des Douze: your character no longer gets stuck against a wall after a leap or a teleport.",
+                                  "es":  "Simulador de FM y Duelo de forjamagia: nuevas tasas de éxito (modelo DoFocus) y nueva pestaña Guía de forjamagia. Donjons des Douze: el personaje ya no se queda atascado contra un muro tras un salto o un teletransporte."
+                              }
+                }
 }
