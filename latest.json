@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.29",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "98c085fdd8e36684bffad2da30425b5a4d1524b96aea0f8a5975b829de8a4a66",
-                    "size":  405431496,
-                    "date":  "2026-11-02",
-                    "notes":  {
-                                  "fr":  "Guides : les guides du site (Forgemage, Élevage, Dédale, Ascension, Donjons, Classes, Armes Légendaires) sont épinglés dans l\u0027onglet Guides. Simulateur de FM : une ligne ajoutée hors de l\u0027objet reste à sa place (plus de clic à côté). Guide du Forgemage : lignes max d\u0027après les jets des objets.",
-                                  "en":  "Guides: the site\u0027s guides (Smithmagus, Breeding, Labyrinth, Ascension, Dungeons, Classes, Legendary Weapons) are pinned in the Guides tab. FM Simulator: a line added outside the item stays in place (no more misclicks). Smithmagus Guide: max lines from the items\u0027 rolls.",
-                                  "es":  "Guías: las guías del sitio (Forjamago, Cría, Laberinto, Ascensión, Mazmorras, Clases, Armas legendarias) están fijadas en la pestaña Guías. Simulador de FM: una línea añadida fuera del objeto se queda en su sitio (sin clics fallidos). Guía del Forjamago: líneas máximas según las tiradas de los objetos."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.30",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Guides: the site\u0027s guides (Smithmagus, Breeding, Labyrinth, Ascension, Dungeons, Classes, Legendary Weapons) are pinned in the Guides tab. FM Simulator: a line added outside the item stays in place (no more misclicks). Smithmagus Guide: max lines from the items\u0027 rolls.",
                               "es":  "Guías: las guías del sitio (Forjamago, Cría, Laberinto, Ascensión, Mazmorras, Clases, Armas legendarias) están fijadas en la pestaña Guías. Simulador de FM: una línea añadida fuera del objeto se queda en su sitio (sin clics fallidos). Guía del Forjamago: líneas máximas según las tiradas de los objetos."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.30",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "e237631f8d7f3eb7769dc5ff187eeab1fd95908398c51b24474ea4c6a4a20fda",
+                    "size":  405543112,
+                    "date":  "2026-11-03",
+                    "notes":  {
+                                  "fr":  "Classement des mini-jeux : récupérer sa sauvegarde sur un nouvel appareil ne crée plus de seconde ligne, le meilleur score est gardé. Île de l\u0027Ascension : rotation #39 Blitz (3 au 24 novembre) et retour du Shuclier Blitz ; un tag « Ascension ouverte » s\u0027affiche dans le calendrier.",
+                                  "en":  "Mini-game leaderboard: restoring your backup on a new device no longer creates a second line, the best score is kept. Ascension Island: rotation #39 Blitz (November 3 to 24) and the return of the Blitz Shushield; an \"Ascension open\" tag now shows in the calendar.",
+                                  "es":  "Clasificación de los minijuegos: recuperar tu copia en un dispositivo nuevo ya no crea una segunda línea, se conserva la mejor puntuación. Isla de la Ascensión: rotación #39 blitz (del 3 al 24 de noviembre) y regreso del Fab\u0027huscudo blitz; una etiqueta «Ascensión abierta» aparece en el calendario."
+                              }
+                }
 }
