@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.33",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "aff27f534b743f818086cb51d6daa68879df88980339461c8f996eb2e50b0b88",
-                "size":  564902817,
-                "date":  "2026-11-04",
-                "notes":  {
-                              "fr":  "Recopie iPhone / iPad : l\u0027onglet indique maintenant clairement l\u0027image sans fil (Wi-Fi) et l\u0027image par câble USB, avec l\u0027état du câble (à brancher, autorisation Caméra, connexion, recopie).",
-                              "en":  "iPhone / iPad mirroring: the tab now clearly shows the wireless (Wi-Fi) image and the USB cable image, with the cable status (plug in, Camera permission, connecting, mirroring).",
-                              "es":  "Duplicación iPhone / iPad: la pestaña indica ahora claramente la imagen inalámbrica (Wi-Fi) y la imagen por cable USB, con el estado del cable (conectar, permiso de Cámara, conexión, duplicación)."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.33",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Dungeons of the Twelve: difficulty that climbs faster than your gear, bosses with states and ultimates to outplay, new challenge The Ascension (52 floors), Nightmare mode to restart the adventure and levels 200 to 300.",
                                   "es":  "Mazmorras de los Doce: dificultad que sube más rápido que el equipo, jefes con estados y habilidades definitivas que esquivar, nuevo desafío La Ascensión (52 pisos), modo Pesadilla para volver a empezar la aventura y niveles del 200 al 300."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.34",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "a83b4f380ddcc6978ed8c1f4f529997198720370513f88b10ae7f1781cf981ea",
+                "size":  564897324,
+                "date":  "2026-11-04",
+                "notes":  {
+                              "fr":  "Donjons des Douze : difficulté qui grimpe plus vite que le stuff, boss avec états et ultimes à déjouer, nouveau défi L\u0027Ascension (52 étages), mode Cauchemar pour recommencer l\u0027aventure et niveaux 200 à 300.",
+                              "en":  "Dungeons of the Twelve: difficulty that climbs faster than your gear, bosses with states and ultimates to outplay, new challenge The Ascension (52 floors), Nightmare mode to restart the adventure and levels 200 to 300.",
+                              "es":  "Mazmorras de los Doce: dificultad que sube más rápido que el equipo, jefes con estados y habilidades definitivas que esquivar, nuevo desafío La Ascensión (52 pisos), modo Pesadilla para volver a empezar la aventura y niveles del 200 al 300."
+                          }
+            }
 }
