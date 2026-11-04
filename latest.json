@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.30",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "e237631f8d7f3eb7769dc5ff187eeab1fd95908398c51b24474ea4c6a4a20fda",
-                    "size":  405543112,
-                    "date":  "2026-11-03",
-                    "notes":  {
-                                  "fr":  "Classement des mini-jeux : récupérer sa sauvegarde sur un nouvel appareil ne crée plus de seconde ligne, le meilleur score est gardé. Île de l\u0027Ascension : rotation #39 Blitz (3 au 24 novembre) et retour du Shuclier Blitz ; un tag « Ascension ouverte » s\u0027affiche dans le calendrier.",
-                                  "en":  "Mini-game leaderboard: restoring your backup on a new device no longer creates a second line, the best score is kept. Ascension Island: rotation #39 Blitz (November 3 to 24) and the return of the Blitz Shushield; an \"Ascension open\" tag now shows in the calendar.",
-                                  "es":  "Clasificación de los minijuegos: recuperar tu copia en un dispositivo nuevo ya no crea una segunda línea, se conserva la mejor puntuación. Isla de la Ascensión: rotación #39 blitz (del 3 al 24 de noviembre) y regreso del Fab\u0027huscudo blitz; una etiqueta «Ascensión abierta» aparece en el calendario."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.31",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Mini-game leaderboard: restoring your backup on a new device no longer creates a second line, the best score is kept. Ascension Island: rotation #39 Blitz (November 3 to 24) and the return of the Blitz Shushield; an \"Ascension open\" tag now shows in the calendar.",
                               "es":  "Clasificación de los minijuegos: recuperar tu copia en un dispositivo nuevo ya no crea una segunda línea, se conserva la mejor puntuación. Isla de la Ascensión: rotación #39 blitz (del 3 al 24 de noviembre) y regreso del Fab\u0027huscudo blitz; una etiqueta «Ascensión abierta» aparece en el calendario."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.31",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "d7626d7e635a201de58180ea52c5d9b84c97c14450a4b1d6b634417738dc05dd",
+                    "size":  405691080,
+                    "date":  "2026-11-04",
+                    "notes":  {
+                                  "fr":  "Recopie iPhone / iPad : image plus fluide en Wi-Fi (AirPlay) et nouvelle recopie par câble USB (à la première connexion, Windows demande l\u0027accès administrateur pour installer le pilote USB).",
+                                  "en":  "iPhone / iPad mirroring: smoother Wi-Fi (AirPlay) picture and new USB-cable mirroring (on first connection, Windows asks for administrator access to install the USB driver).",
+                                  "es":  "Duplicación iPhone / iPad: imagen más fluida por Wi-Fi (AirPlay) y nueva duplicación por cable USB (en la primera conexión, Windows pide acceso de administrador para instalar el controlador USB)."
+                              }
+                }
 }
