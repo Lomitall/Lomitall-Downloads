@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.31",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "d7626d7e635a201de58180ea52c5d9b84c97c14450a4b1d6b634417738dc05dd",
-                    "size":  405691080,
-                    "date":  "2026-11-04",
-                    "notes":  {
-                                  "fr":  "Recopie iPhone / iPad : image plus fluide en Wi-Fi (AirPlay) et nouvelle recopie par câble USB (à la première connexion, Windows demande l\u0027accès administrateur pour installer le pilote USB).",
-                                  "en":  "iPhone / iPad mirroring: smoother Wi-Fi (AirPlay) picture and new USB-cable mirroring (on first connection, Windows asks for administrator access to install the USB driver).",
-                                  "es":  "Duplicación iPhone / iPad: imagen más fluida por Wi-Fi (AirPlay) y nueva duplicación por cable USB (en la primera conexión, Windows pide acceso de administrador para instalar el controlador USB)."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.32",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "iPhone / iPad mirroring: smoother Wi-Fi (AirPlay) picture and new USB-cable mirroring (macOS asks for Camera access the first time: the iPhone screen is seen as a camera).",
                               "es":  "Duplicación iPhone / iPad: imagen más fluida por Wi-Fi (AirPlay) y nueva duplicación por cable USB (macOS pide acceso a la Cámara la primera vez: la pantalla del iPhone se ve como una cámara)."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.32",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "612966dbfd76c3fe9c3d9bb24c05164f1f64b70ab2ab7ea6583bb920b847bc38",
+                    "size":  405696200,
+                    "date":  "2026-11-04",
+                    "notes":  {
+                                  "fr":  "Recopie iPhone / iPad : l\u0027onglet indique maintenant clairement l\u0027image sans fil (Wi-Fi) et l\u0027image par câble USB, avec l\u0027état du câble (à brancher, pilote à installer, connexion, recopie).",
+                                  "en":  "iPhone / iPad mirroring: the tab now clearly shows the wireless (Wi-Fi) image and the USB cable image, with the cable status (plug in, driver to install, connecting, mirroring).",
+                                  "es":  "Duplicación iPhone / iPad: la pestaña indica ahora claramente la imagen inalámbrica (Wi-Fi) y la imagen por cable USB, con el estado del cable (conectar, controlador por instalar, conexión, duplicación)."
+                              }
+                }
 }
