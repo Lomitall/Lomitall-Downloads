@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.31",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "7d367f3a3480b71839cde12ab008b1a58baff5a3b098e0956ebae49152d43a4c",
-                "size":  564836724,
-                "date":  "2026-11-03",
-                "notes":  {
-                              "fr":  "Classement des mini-jeux : récupérer sa sauvegarde sur un nouvel appareil ne crée plus de seconde ligne, le meilleur score est gardé. Île de l\u0027Ascension : rotation #39 Blitz (3 au 24 novembre) et retour du Shuclier Blitz ; un tag « Ascension ouverte » s\u0027affiche dans le calendrier.",
-                              "en":  "Mini-game leaderboard: restoring your backup on a new device no longer creates a second line, the best score is kept. Ascension Island: rotation #39 Blitz (November 3 to 24) and the return of the Blitz Shushield; an \"Ascension open\" tag now shows in the calendar.",
-                              "es":  "Clasificación de los minijuegos: recuperar tu copia en un dispositivo nuevo ya no crea una segunda línea, se conserva la mejor puntuación. Isla de la Ascensión: rotación #39 blitz (del 3 al 24 de noviembre) y regreso del Fab\u0027huscudo blitz; una etiqueta «Ascensión abierta» aparece en el calendario."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.31",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "iPhone / iPad mirroring: smoother Wi-Fi (AirPlay) picture and new USB-cable mirroring (on first connection, Windows asks for administrator access to install the USB driver).",
                                   "es":  "Duplicación iPhone / iPad: imagen más fluida por Wi-Fi (AirPlay) y nueva duplicación por cable USB (en la primera conexión, Windows pide acceso de administrador para instalar el controlador USB)."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.32",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "ee6234d154f5f45454ca934991b5bc5dc583fbbb3455e9b24c60944eaeb1b451",
+                "size":  564899204,
+                "date":  "2026-11-04",
+                "notes":  {
+                              "fr":  "Recopie iPhone / iPad : image plus fluide en Wi-Fi (AirPlay) et nouvelle recopie par câble USB (macOS demande l\u0027accès à la Caméra la première fois : l\u0027écran de l\u0027iPhone est vu comme une caméra).",
+                              "en":  "iPhone / iPad mirroring: smoother Wi-Fi (AirPlay) picture and new USB-cable mirroring (macOS asks for Camera access the first time: the iPhone screen is seen as a camera).",
+                              "es":  "Duplicación iPhone / iPad: imagen más fluida por Wi-Fi (AirPlay) y nueva duplicación por cable USB (macOS pide acceso a la Cámara la primera vez: la pantalla del iPhone se ve como una cámara)."
+                          }
+            }
 }
