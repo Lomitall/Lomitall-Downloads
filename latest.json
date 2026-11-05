@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.34",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "a83b4f380ddcc6978ed8c1f4f529997198720370513f88b10ae7f1781cf981ea",
-                "size":  564897324,
-                "date":  "2026-11-04",
-                "notes":  {
-                              "fr":  "Donjons des Douze : difficulté qui grimpe plus vite que le stuff, boss avec états et ultimes à déjouer, nouveau défi L\u0027Ascension (52 étages), mode Cauchemar pour recommencer l\u0027aventure et niveaux 200 à 300.",
-                              "en":  "Dungeons of the Twelve: difficulty that climbs faster than your gear, bosses with states and ultimates to outplay, new challenge The Ascension (52 floors), Nightmare mode to restart the adventure and levels 200 to 300.",
-                              "es":  "Mazmorras de los Doce: dificultad que sube más rápido que el equipo, jefes con estados y habilidades definitivas que esquivar, nuevo desafío La Ascensión (52 pisos), modo Pesadilla para volver a empezar la aventura y niveles del 200 al 300."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.34",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Site update: stats transmitted to summons, traps and glyphs; character preview for each class; best gear video; mirroring tutorial; DTCloner video; leaderboard without duplicate nicknames.",
                                   "es":  "Sitio actualizado: stats transmitidas a invocaciones, trampas y glifos; vista previa de los personajes de cada clase; video de los mejores equipos; tutorial del mirroring; video de DTCloner; clasificacion sin apodos duplicados."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.35",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "7ceec24700c3ac28b9f8c5de7519128e82863889a0b90ac7ffe9e66d1cc07d31",
+                "size":  566633849,
+                "date":  "2026-11-05",
+                "notes":  {
+                              "fr":  "Site a jour : stats transmises aux invocations, pieges et glyphes ; apercu des personnages de chaque classe ; video des meilleurs stuffs ; tutoriel du mirroring ; video de DTCloner ; classement sans doublons de pseudo.",
+                              "en":  "Site update: stats transmitted to summons, traps and glyphs; character preview for each class; best gear video; mirroring tutorial; DTCloner video; leaderboard without duplicate nicknames.",
+                              "es":  "Sitio actualizado: stats transmitidas a invocaciones, trampas y glifos; vista previa de los personajes de cada clase; video de los mejores equipos; tutorial del mirroring; video de DTCloner; clasificacion sin apodos duplicados."
+                          }
+            }
 }
