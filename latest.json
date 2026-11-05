@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.34",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "68bc72a5936260dc29cb02b04f0408f6d413320472bdbaa68fe728317f687d7f",
-                    "size":  407794376,
-                    "date":  "2026-11-05",
-                    "notes":  {
-                                  "fr":  "Site a jour : stats transmises aux invocations, pieges et glyphes ; apercu des personnages de chaque classe ; video des meilleurs stuffs ; tutoriel du mirroring ; video de DTCloner ; classement sans doublons de pseudo.",
-                                  "en":  "Site update: stats transmitted to summons, traps and glyphs; character preview for each class; best gear video; mirroring tutorial; DTCloner video; leaderboard without duplicate nicknames.",
-                                  "es":  "Sitio actualizado: stats transmitidas a invocaciones, trampas y glifos; vista previa de los personajes de cada clase; video de los mejores equipos; tutorial del mirroring; video de DTCloner; clasificacion sin apodos duplicados."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.35",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Site update: stats transmitted to summons, traps and glyphs; character preview for each class; best gear video; mirroring tutorial; DTCloner video; leaderboard without duplicate nicknames.",
                               "es":  "Sitio actualizado: stats transmitidas a invocaciones, trampas y glifos; vista previa de los personajes de cada clase; video de los mejores equipos; tutorial del mirroring; video de DTCloner; clasificacion sin apodos duplicados."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.35",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "7d79ceaf74ae22c10292704a9734d1e2a9d2baf9b2506820575ebd58d7cd0df1",
+                    "size":  407815368,
+                    "date":  "2026-11-05",
+                    "notes":  {
+                                  "fr":  "Site a jour : nouveau guide Puissance \u0026 multi-compte dans l\u0027onglet Mirroring (smartphones et tablettes, nombre de comptes Dofus Touch, iPad puce M, DeX et mode bureau), onglets Mirroring sur une seule ligne.",
+                                  "en":  "Site updated: new Power \u0026 multi-account guide in the Mirroring tab (smartphones and tablets, number of Dofus Touch accounts, M-chip iPads, DeX and desktop mode), Mirroring tabs on a single line.",
+                                  "es":  "Sitio actualizado: nueva guia Potencia y multicuenta en la pestana Mirroring (smartphones y tabletas, numero de cuentas de Dofus Touch, iPad con chip M, DeX y modo escritorio), pestanas de Mirroring en una sola linea."
+                              }
+                }
 }
