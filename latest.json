@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.35",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "7d79ceaf74ae22c10292704a9734d1e2a9d2baf9b2506820575ebd58d7cd0df1",
-                    "size":  407815368,
-                    "date":  "2026-11-05",
-                    "notes":  {
-                                  "fr":  "Site a jour : nouveau guide Puissance \u0026 multi-compte dans l\u0027onglet Mirroring (smartphones et tablettes, nombre de comptes Dofus Touch, iPad puce M, DeX et mode bureau), onglets Mirroring sur une seule ligne.",
-                                  "en":  "Site updated: new Power \u0026 multi-account guide in the Mirroring tab (smartphones and tablets, number of Dofus Touch accounts, M-chip iPads, DeX and desktop mode), Mirroring tabs on a single line.",
-                                  "es":  "Sitio actualizado: nueva guia Potencia y multicuenta en la pestana Mirroring (smartphones y tabletas, numero de cuentas de Dofus Touch, iPad con chip M, DeX y modo escritorio), pestanas de Mirroring en una sola linea."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.36",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Site updated: new Power \u0026 multi-account guide in the Mirroring tab (smartphones and tablets, number of Dofus Touch accounts, M-chip iPads, DeX and desktop mode), Mirroring tabs on a single line.",
                               "es":  "Sitio actualizado: nueva guia Potencia y multicuenta en la pestana Mirroring (smartphones y tabletas, numero de cuentas de Dofus Touch, iPad con chip M, DeX y modo escritorio), pestanas de Mirroring en una sola linea."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.36",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "dba829585d9872751503a27ff99c5f07bb805a5fb75f8ccb49ac6422a6aae9c1",
+                    "size":  407824072,
+                    "date":  "2026-11-08",
+                    "notes":  {
+                                  "fr":  "Site a jour : 3 guides video en Short (Compagnons, Donjons de Frigost, tous les Dofus), Short et salle secrete du Dedale, rotation #38 TemporiX de l\u0027Ascension, batterie du telephone Android dans le Mirroring Web, poids des runes Sagesse corriges dans le simulateur de FM, diminutifs dans le Lexique, nouvelle video du Feca.",
+                                  "en":  "Site updated: 3 Short video guides (Companions, Frigost Dungeons, every Dofus), Labyrinth Short and secret room tip, Ascension rotation #38 TemporiX, Android phone battery in Web Mirroring, Wisdom rune weights fixed in the smithmagic simulator, abbreviations in the Glossary, new Feca video.",
+                                  "es":  "Sitio actualizado: 3 guias en video Short (Companeros, Mazmorras de Frigost, todos los Dofus), Short y sala secreta del Laberinto, rotacion #38 TemporiX de la Ascension, bateria del telefono Android en el Mirroring Web, peso de las runas de Sabiduria corregido en el simulador de forjamagia, diminutivos en el Lexico, nuevo video del Feca."
+                              }
+                }
 }
