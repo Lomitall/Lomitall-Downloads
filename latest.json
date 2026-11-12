@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.37",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "405b66dbe48ad15b11c585ca0e57006e2d182222b2351f981757094df11c1c11",
-                    "size":  407830728,
-                    "date":  "2026-11-12",
-                    "notes":  {
-                                  "fr":  "Mirroring : batterie du téléphone à côté des boutons Retour, Accueil et Apps récentes, visible en plein écran, et option pour l\u0027afficher ou la masquer. Outils : le Simulateur de FM devient Forgemagie ; vidéos Short dans les guides Armes Légendaires, Forgemagie et Élevage.",
-                                  "en":  "Mirroring: phone battery next to the Back, Home and Recent apps buttons, visible in fullscreen, with an option to show or hide it. Tools: the Smithmagic Simulator becomes Smithmagic; Short videos in the Legendary Weapons, Smithmagic and Breeding guides.",
-                                  "es":  "Mirroring: batería del teléfono junto a los botones Atrás, Inicio y Apps recientes, visible en pantalla completa, con una opción para mostrarla u ocultarla. Herramientas: el Simulador de forjamagia pasa a llamarse Forjamagia; vídeos Short en las guías de Armas legendarias, Forjamagia y Crianza."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.38",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Mirroring: phone battery next to the Back, Home and Recent apps buttons, visible in fullscreen, with an option to show or hide it. Tools: the Smithmagic Simulator becomes Smithmagic; Short videos in the Legendary Weapons, Smithmagic and Breeding guides.",
                               "es":  "Mirroring: batería del teléfono junto a los botones Atrás, Inicio y Apps recientes, visible en pantalla completa, con una opción para mostrarla u ocultarla. Herramientas: el Simulador de forjamagia pasa a llamarse Forjamagia; vídeos Short en las guías de Armas legendarias, Forjamagia y Crianza."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.38",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "42a001dbaed09efb38f8e32a0ef8fb684e1eed914346d917f1b1a7d20f3a9fd5",
+                    "size":  407941832,
+                    "date":  "2026-11-12",
+                    "notes":  {
+                                  "fr":  "Mirroring : en mode Horizontal, le clavier Android ne s\u0027affiche plus par-dessus le jeu quand on écrit ; option « Afficher le clavier du téléphone » pour le retrouver.",
+                                  "en":  "Mirroring: in Horizontal mode, the Android keyboard no longer covers the game while typing; new option « Show phone keyboard » to bring it back.",
+                                  "es":  "Mirroring: en modo Horizontal, el teclado de Android ya no tapa el juego al escribir; opción « Mostrar el teclado del teléfono » para recuperarlo."
+                              }
+                }
 }
