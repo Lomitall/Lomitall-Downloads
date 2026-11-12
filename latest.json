@@ -1,16 +1,4 @@
 {
-    "mac":  {
-                "version":  "0.4.38",
-                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
-                "sha256":  "9f17672282e926ae48ded0a6ddfc6422ef851b37ca9abfd6b926f1446fdc30c5",
-                "size":  566615723,
-                "date":  "2026-11-12",
-                "notes":  {
-                              "fr":  "Mirroring : batterie du téléphone à côté des boutons Retour, Accueil et Apps récentes, visible en plein écran, et option pour l\u0027afficher ou la masquer. Outils : le Simulateur de FM devient Forgemagie ; vidéos Short dans les guides Armes Légendaires, Forgemagie et Élevage.",
-                              "en":  "Mirroring: phone battery next to the Back, Home and Recent apps buttons, visible in fullscreen, with an option to show or hide it. Tools: the Smithmagic Simulator becomes Smithmagic; Short videos in the Legendary Weapons, Smithmagic and Breeding guides.",
-                              "es":  "Mirroring: batería del teléfono junto a los botones Atrás, Inicio y Apps recientes, visible en pantalla completa, con una opción para mostrarla u ocultarla. Herramientas: el Simulador de forjamagia pasa a llamarse Forjamagia; vídeos Short en las guías de Armas legendarias, Forjamagia y Crianza."
-                          }
-            },
     "windows":  {
                     "version":  "0.4.38",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
@@ -22,5 +10,17 @@
                                   "en":  "Mirroring: in Horizontal mode, the Android keyboard no longer covers the game while typing; new option « Show phone keyboard » to bring it back.",
                                   "es":  "Mirroring: en modo Horizontal, el teclado de Android ya no tapa el juego al escribir; opción « Mostrar el teclado del teléfono » para recuperarlo."
                               }
-                }
+                },
+    "mac":  {
+                "version":  "0.4.39",
+                "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
+                "sha256":  "cef821287288d24cfa0105a34bc2b6a8839aa6c1036123dd142d276466f7c272",
+                "size":  566617772,
+                "date":  "2026-11-12",
+                "notes":  {
+                              "fr":  "Mirroring : en mode Horizontal, le clavier Android ne s\u0027affiche plus par-dessus le jeu quand on écrit ; option « Afficher le clavier du téléphone » pour le retrouver.",
+                              "en":  "Mirroring: in Horizontal mode, the Android keyboard no longer covers the game while typing; new option « Show phone keyboard » to bring it back.",
+                              "es":  "Mirroring: en modo Horizontal, el teclado de Android ya no tapa el juego al escribir; opción « Mostrar el teclado del teléfono » para recuperarlo."
+                          }
+            }
 }
