@@ -1,16 +1,4 @@
 {
-    "windows":  {
-                    "version":  "0.4.38",
-                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "42a001dbaed09efb38f8e32a0ef8fb684e1eed914346d917f1b1a7d20f3a9fd5",
-                    "size":  407941832,
-                    "date":  "2026-11-12",
-                    "notes":  {
-                                  "fr":  "Mirroring : en mode Horizontal, le clavier Android ne s\u0027affiche plus par-dessus le jeu quand on écrit ; option « Afficher le clavier du téléphone » pour le retrouver.",
-                                  "en":  "Mirroring: in Horizontal mode, the Android keyboard no longer covers the game while typing; new option « Show phone keyboard » to bring it back.",
-                                  "es":  "Mirroring: en modo Horizontal, el teclado de Android ya no tapa el juego al escribir; opción « Mostrar el teclado del teléfono » para recuperarlo."
-                              }
-                },
     "mac":  {
                 "version":  "0.4.39",
                 "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.dmg",
@@ -22,5 +10,17 @@
                               "en":  "Mirroring: in Horizontal mode, the Android keyboard no longer covers the game while typing; new option « Show phone keyboard » to bring it back.",
                               "es":  "Mirroring: en modo Horizontal, el teclado de Android ya no tapa el juego al escribir; opción « Mostrar el teclado del teléfono » para recuperarlo."
                           }
-            }
+            },
+    "windows":  {
+                    "version":  "0.4.39",
+                    "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
+                    "sha256":  "7ee37236db34cd318258b290d8ca66573461849eb31f255cb1f54f51765f2982",
+                    "size":  413683912,
+                    "date":  "2026-11-18",
+                    "notes":  {
+                                  "fr":  "Aide : nouvel onglet Lore, toute l\u0027histoire du Krosmoz (dieux, Dofus primordiaux, personnages cultes illustrés, frise de Dofus Touch). Forgemagie : valeurs de l\u0027objet modifiables à la main. Classes : « Retrait PO » dans la recherche par état ou effet.",
+                                  "en":  "Help: new Lore tab, the whole story of the Krosmoz (gods, Primordial Dofus, illustrated iconic characters, Dofus Touch timeline). Smithmagic: item values editable by hand. Classes: « Range Reduction » in the search by state or effect.",
+                                  "es":  "Ayuda: nueva pestaña Lore, toda la historia del Krosmoz (dioses, Dofus primordiales, personajes de culto ilustrados, cronología de Dofus Touch). Forjamagia: valores del objeto editables a mano. Clases: « Reducción de alcance » en la búsqueda por estado o efecto."
+                              }
+                }
 }
