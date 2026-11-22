@@ -12,15 +12,15 @@
                           }
             },
     "windows":  {
-                    "version":  "0.4.39",
+                    "version":  "0.4.40",
                     "url":  "https://github.com/Lomitall/Lomitall-Downloads/releases/latest/download/Lomitall.exe",
-                    "sha256":  "7ee37236db34cd318258b290d8ca66573461849eb31f255cb1f54f51765f2982",
-                    "size":  413683912,
-                    "date":  "2026-11-18",
+                    "sha256":  "d45797c8b86210a4bff0d30029fe42f31fba33350564c3dbbc09559fee0f8178",
+                    "size":  413833416,
+                    "date":  "2026-11-22",
                     "notes":  {
-                                  "fr":  "Aide : nouvel onglet Lore, toute l\u0027histoire du Krosmoz (dieux, Dofus primordiaux, personnages cultes illustrés, frise de Dofus Touch). Forgemagie : valeurs de l\u0027objet modifiables à la main. Classes : « Retrait PO » dans la recherche par état ou effet.",
-                                  "en":  "Help: new Lore tab, the whole story of the Krosmoz (gods, Primordial Dofus, illustrated iconic characters, Dofus Touch timeline). Smithmagic: item values editable by hand. Classes: « Range Reduction » in the search by state or effect.",
-                                  "es":  "Ayuda: nueva pestaña Lore, toda la historia del Krosmoz (dioses, Dofus primordiales, personajes de culto ilustrados, cronología de Dofus Touch). Forjamagia: valores del objeto editables a mano. Clases: « Reducción de alcance » en la búsqueda por estado o efecto."
+                                  "fr":  "Le bouton de don passe sur Ko-fi (carte bancaire, Apple Pay, Google Pay ou PayPal, sans compte).",
+                                  "en":  "The donation button now uses Ko-fi (card, Apple Pay, Google Pay or PayPal, no account needed).",
+                                  "es":  "El botón de donación ahora usa Ko-fi (tarjeta, Apple Pay, Google Pay o PayPal, sin cuenta)."
                               }
                 }
 }
